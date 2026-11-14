@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which conservative care fits carpal tunnel syndrome, and when is surgery considered?",
+    "back": "Neutral wrist night splint, ergonomic changes, and nerve and tendon gliding. Consider surgery for severe or persistent symptoms, thenar atrophy or constant sensory loss."
+  },
+  {
+    "id": 2,
+    "domain": "phototherapy",
+    "front": "What is the minimal erythemal dose (MED)?",
+    "back": "The smallest UV exposure that produces just perceptible redness, checked at a set time after exposure, commonly about 24 hours. It must be tested on each patient."
+  },
+  {
+    "id": 3,
+    "domain": "functional_assessment",
+    "front": "In which Rancho phase does the heel rise and the body move ahead of the stance foot?",
+    "back": "Terminal stance, from about 30 to 50 percent of the cycle. Gastrocnemius and soleus provide most of the push off power here."
+  },
+  {
+    "id": 4,
+    "domain": "phototherapy",
+    "front": "You want 6 J/cm2 over a 5 cm2 wound with a 0.5 W laser. How long is the treatment?",
+    "back": "Energy needed = 6 x 5 = 30 J. Time = 30 / 0.5 = 60 seconds."
+  },
+  {
+    "id": 5,
+    "domain": "mechanotherapy",
+    "front": "What is a UCBL orthosis and when is it used?",
+    "back": "A rigid shell with high medial and lateral walls, used for severe flatfoot."
+  },
+  {
+    "id": 6,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What is the finding about transversus abdominis timing in chronic low back pain?",
+    "back": "In healthy people TrA fires before limb movement. In chronic low back pain (Hodges and Richardson) that early firing is delayed."
+  },
+  {
+    "id": 7,
+    "domain": "thermotherapy",
+    "front": "Why is ultrasound avoided over a laminectomy site or thrombophlebitis?",
+    "back": "Laminectomy leaves the cord uncovered by bone. With thrombophlebitis or DVT, emboli may break loose."
+  },
+  {
+    "id": 8,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "When may an ACL reconstruction patient return to pivoting sport?",
+    "back": "Commonly at least 9 months and limb symmetry of at least 90 percent on strength and hop tests. A calendar date alone is not enough."
+  },
+  {
+    "id": 9,
+    "domain": "mechanotherapy",
+    "front": "Which lumbar traction position flattens the lordosis, and when is prone chosen instead?",
+    "back": "Supine with hips and knees flexed to about 90 degrees flattens the lordosis. Prone keeps the lordosis and is used when symptoms centralize with extension or flexion aggravates them."
+  },
+  {
+    "id": 10,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Pain moves from the calf to the buttock during repeated extension. What next?",
+    "back": "That is centralization, so continue the extension program. If pain instead moved farther down the leg, stop that movement."
+  },
+  {
+    "id": 11,
+    "domain": "thermotherapy",
+    "front": "What are the main physiological effects of cold?",
+    "back": "Vasoconstriction, lower metabolic rate, slower nerve conduction with analgesia, and reduced spindle activity and spasm."
+  },
+  {
+    "id": 12,
+    "domain": "thermotherapy",
+    "front": "Above what tissue temperature does damage begin?",
+    "back": "About 113 degrees F (45 degrees C). This is why dosage and monitoring matter."
+  },
+  {
+    "id": 13,
+    "domain": "phototherapy",
+    "front": "Which wavelength band suits a superficial skin ulcer, red or near infrared?",
+    "back": "Red light, about 630 to 700 nm. It is absorbed mostly in the epidermis and upper dermis, so it suits superficial problems."
+  },
+  {
+    "id": 14,
+    "domain": "electrotherapy",
+    "front": "Describe the HVPC waveform and why it feels comfortable at high voltage.",
+    "back": "A monophasic twin peak, each peak about 5 to 20 µs, over 150 V. The tiny phase charge and average current under 1.5 mA keep it comfortable with little heating."
+  },
+  {
+    "id": 15,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "A patient sways only when the eyes close during Romberg. What is this and what does it suggest?",
+    "back": "A positive Romberg. It suggests lost proprioception, such as a dorsal column problem or peripheral neuropathy, because vision had been covering for missing position sense."
+  },
+  {
+    "id": 16,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Which PNF technique uses alternating isotonic contractions of agonist and antagonist with no pause?",
+    "back": "Slow reversal. Slow reversal hold adds an isometric hold at the end of each range. Both build strength and coordination."
+  },
+  {
+    "id": 17,
+    "domain": "electrotherapy",
+    "front": "A patient wants longer lasting relief and tolerates visible twitching. Which TENS mode fits?",
+    "back": "Acupuncture like TENS: 1 to 5 pps, 150 to 250 µs, motor level. Onset takes 20 to 40 minutes, used for 20 to 30 minutes."
+  },
+  {
+    "id": 18,
+    "domain": "functional_assessment",
+    "front": "A patient stands on the right leg and the pelvis drops on the left. Which muscle is weak?",
+    "back": "The right gluteus medius, on the standing side. In Trendelenburg the pelvis drops on the opposite, lifted side."
+  },
+  {
+    "id": 19,
+    "domain": "thermotherapy",
+    "front": "Name contraindications to cold therapy.",
+    "back": "Raynaud's, cold urticaria, cryoglobulinemia, paroxysmal cold hemoglobinuria, impaired circulation or sensation, regenerating nerve and open wounds or infection."
+  },
+  {
+    "id": 20,
+    "domain": "endurance_training",
+    "front": "What is one MET in mL/kg/min?",
+    "back": "3.5 mL/kg/min, which is resting oxygen use. Divide VO2 in mL/kg/min by 3.5 to get METs."
+  },
+  {
+    "id": 21,
+    "domain": "phototherapy",
+    "front": "A UV lamp strikes the skin at 60 degrees from the perpendicular, and the perpendicular MED time is 20 seconds. What is the time?",
+    "back": "Cos 60 degrees is 0.5, so intensity is half. Time = 20 / 0.5 = 40 seconds."
+  },
+  {
+    "id": 22,
+    "domain": "thermotherapy",
+    "front": "What is the usual treatment time for a hot pack?",
+    "back": "20 minutes, with a range of 15 to 30. Heating is strongest in the first 8 to 10 minutes."
+  },
+  {
+    "id": 23,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "You want to train a patient's weak vestibular system. How do you make the task harder for it?",
+    "back": "Reduce the other two systems. Close the eyes to remove vision and use foam to make foot input unreliable, so the vestibular system must work."
+  },
+  {
+    "id": 24,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which imaging is best for an early stress fracture, and which sites are high risk?",
+    "back": "MRI, since plain films are often normal early. High risk: anterior tibial cortex, femoral neck, navicular and fifth metatarsal base (Jones fracture)."
+  },
+  {
+    "id": 25,
+    "domain": "muscle_rehabilitation",
+    "front": "What is creep in viscoelastic tissue?",
+    "back": "Creep is the gradual lengthening of tissue held under a constant load. It is one reason a held static stretch works better than a quick one."
+  },
+  {
+    "id": 26,
+    "domain": "thermotherapy",
+    "front": "About how deep does moist heat penetrate?",
+    "back": "About 1 cm. It heats skin, subcutaneous tissue and the top of muscle, but not deep joints such as the hip."
+  },
+  {
+    "id": 27,
+    "domain": "thermotherapy",
+    "front": "A head has ERA 5 cm2 and runs at 1.5 W/cm2 for 5 minutes. What is the total energy?",
+    "back": "Power is 1.5 x 5 = 7.5 W. Over 300 s, energy is 2,250 J."
+  },
+  {
+    "id": 28,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Which balance strategy corrects small, slow disturbances on a firm surface?",
+    "back": "The ankle strategy. The body sways like an inverted pendulum around the ankles and ankle muscles do the correcting."
+  },
+  {
+    "id": 29,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which muscles provide force closure of the SI joint?",
+    "back": "Transversus abdominis, multifidus, pelvic floor, gluteus maximus and latissimus dorsi through the thoracolumbar fascia. Form closure is the bony and ligamentous fit."
+  },
+  {
+    "id": 30,
+    "domain": "endurance_training",
+    "front": "Describe the Queens College step test.",
+    "back": "3 minutes on a 16.25 inch step at 24 steps per minute for men and 22 for women. Recovery heart rate is used to estimate VO2 max."
+  },
+  {
+    "id": 31,
+    "domain": "electrotherapy",
+    "front": "How does chronaxie of denervated muscle compare with healthy muscle?",
+    "back": "It is longer. Denervated muscle needs long pulse durations to respond."
+  },
+  {
+    "id": 32,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How do partial meniscectomy and meniscal repair rehab differ?",
+    "back": "Meniscectomy allows immediate weight bearing and return in about 4 to 6 weeks. Repair needs limited weight bearing and no deep flexion past 90 degrees for 4 to 6 weeks."
+  },
+  {
+    "id": 33,
+    "domain": "muscle_rehabilitation",
+    "front": "What is stress relaxation?",
+    "back": "The gradual drop in the force needed to hold tissue at a fixed length. Together with creep, it explains why held stretches gain range."
+  },
+  {
+    "id": 34,
+    "domain": "mechanotherapy",
+    "front": "What are the vibration frequency range and effects of handheld massage devices?",
+    "back": "Roughly 10 to 200 Hz or more. Vibration reduces pain through the gate mechanism, can inhibit spasm, helps circulation, and is used in chest therapy."
+  },
+  {
+    "id": 35,
+    "domain": "endurance_training",
+    "front": "How many kcal does a 70 kg client burn in 30 minutes at 6 METs?",
+    "back": "kcal/min = METs x 3.5 x kg / 200 = 6 x 3.5 x 70 / 200 = 7.35. Over 30 minutes that is 220.5 kcal."
+  },
+  {
+    "id": 36,
+    "domain": "muscle_rehabilitation",
+    "front": "In the Ely test the hip rises into flexion as the knee is bent in prone. What is tight?",
+    "back": "The rectus femoris. It crosses both the hip and the knee, so knee flexion pulls the hip into flexion when it is short."
+  },
+  {
+    "id": 37,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What time spans define acute, subacute and chronic for general spinal care?",
+    "back": "Acute is about 72 hours to 2 weeks, subacute about 2 to 6 weeks (often extended to 12 weeks for neck and low back pain), chronic longer than about 12 weeks. Goals shift from protection to motion and stabilization to conditioning."
+  },
+  {
+    "id": 38,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What are typical cervical traction settings for radiculopathy?",
+    "back": "Intermittent traction at about 10 to 15 pounds, neck in about 20 to 30 degrees of flexion to open the foramina, for 10 to 15 minutes."
+  },
+  {
+    "id": 39,
+    "domain": "phototherapy",
+    "front": "What should be removed from the skin before laser treatment?",
+    "back": "Creams, lotions or dressings that could reflect or absorb the light. Clean the skin first."
+  },
+  {
+    "id": 40,
+    "domain": "phototherapy",
+    "front": "A clinic has goggles for an 808 nm laser. Can you use them with a 660 nm laser?",
+    "back": "Not safely. Goggles protect only for the wavelength they are rated for, so you must confirm the OD rating matches the device in use."
+  },
+  {
+    "id": 41,
+    "domain": "phototherapy",
+    "front": "Who must wear eye protection during Class 3B laser treatment, and what must it match?",
+    "back": "Everyone in the room, patient and therapist. Goggles must be rated for the exact laser wavelength (check the OD rating)."
+  },
+  {
+    "id": 42,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "A positive drop arm test with weak external rotation and night pain points to what, and what is first line for small tears?",
+    "back": "A rotator cuff tear. Small and partial tears are usually managed conservatively first."
+  },
+  {
+    "id": 43,
+    "domain": "exercise_physiology",
+    "front": "Describe the monosynaptic stretch reflex.",
+    "back": "Stretch fires the Ia afferent, which synapses directly on the alpha motor neuron of the same muscle, causing contraction. The knee jerk is the example."
+  },
+  {
+    "id": 44,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is the capsular pattern of the shoulder in adhesive capsulitis?",
+    "back": "External rotation is limited most, then abduction, then internal rotation. Both active and passive motion are lost."
+  },
+  {
+    "id": 45,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What are the common precautions after spinal fusion?",
+    "back": "The BLT rules: no bending, lifting over about 10 pounds, or twisting, often for 3 to 6 months or until radiographic fusion. Always follow the surgeon's protocol and watch for infection, DVT and cauda equina signs."
+  },
+  {
+    "id": 46,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is Laslett's cluster for SI joint pain?",
+    "back": "Distraction, thigh thrust, compression, sacral thrust and Gaenslen test. Three or more positive suggests SI origin. If centralization occurs with repeated movements, think discogenic instead."
+  },
+  {
+    "id": 47,
+    "domain": "electrotherapy",
+    "front": "How is phase charge calculated, and what does a longer phase at the same amplitude do?",
+    "back": "Phase charge equals amplitude times phase duration. A longer phase carries more charge and recruits deeper tissue and more, smaller nerve fibers."
+  },
+  {
+    "id": 48,
+    "domain": "electrotherapy",
+    "front": "A deconditioned patient starts NMES strengthening. What on:off ratio and duty cycle fit?",
+    "back": "1:5, such as 10 seconds on and 50 seconds off, which is 16.7 percent. Progress to 1:3, then 1:2 or 1:1 as endurance improves."
+  },
+  {
+    "id": 49,
+    "domain": "phototherapy",
+    "front": "Name the three properties of therapeutic laser light.",
+    "back": "Monochromatic (one wavelength), coherent (waves in phase) and collimated (parallel beam that spreads little with distance)."
+  },
+  {
+    "id": 50,
+    "domain": "functional_assessment",
+    "front": "During an overhead squat the arms fall forward. Which structures are tight?",
+    "back": "Latissimus dorsi and pectorals, along with poor thoracic extension."
+  },
+  {
+    "id": 51,
+    "domain": "muscle_rehabilitation",
+    "front": "Describe the DeLorme regimen.",
+    "back": "3 sets of 10 repetitions rising within the session: 50 percent, then 75 percent, then 100 percent of 10RM. It goes light to heavy."
+  },
+  {
+    "id": 52,
+    "domain": "exercise_physiology",
+    "front": "What does an RER of 0.70 versus 1.00 mean?",
+    "back": "0.70 means fat is the only fuel and 1.00 means carbohydrate only. A rising RER shows a shift toward carbohydrate."
+  },
+  {
+    "id": 53,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How is Scheuermann disease defined?",
+    "back": "Structural adolescent kyphosis with anterior wedging of 5 degrees or more across three consecutive vertebrae. It will not correct with exercise alone."
+  },
+  {
+    "id": 54,
+    "domain": "phototherapy",
+    "front": "MED is 40 seconds at 15 inches. How long for one MED if the lamp moves to 30 inches?",
+    "back": "Intensity falls to one quarter, so time = 40 x (30 / 15) squared = 160 seconds."
+  },
+  {
+    "id": 55,
+    "domain": "endurance_training",
+    "front": "A client at maximal effort has HR 190 bpm and stroke volume 100 mL. What is cardiac output?",
+    "back": "190 x 100 = 19,000 mL/min, or 19 L/min. Cardiac output is heart rate times stroke volume."
+  },
+  {
+    "id": 56,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What are the Bankart and Hill Sachs lesions?",
+    "back": "Bankart is a tear of the anteroinferior labrum. Hill Sachs is a compression defect on the posterolateral humeral head. Both follow anterior dislocation."
+  },
+  {
+    "id": 57,
+    "domain": "phototherapy",
+    "front": "Which laser class is visible light only, under 1 mW, protected by the blink reflex?",
+    "back": "Class 2. The blink reflex gives enough protection at that low power."
+  },
+  {
+    "id": 58,
+    "domain": "endurance_training",
+    "front": "What is the 1.5 mile run equation and its result for 12 minutes?",
+    "back": "VO2 max = (483 / time in minutes) + 3.5. For 12 minutes: 40.25 + 3.5 = 43.75 mL/kg/min."
+  },
+  {
+    "id": 59,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which cervical root is most commonly involved in radiculopathy?",
+    "back": "C7, followed by C6. Disc herniation or foraminal narrowing from degeneration is the usual cause."
+  },
+  {
+    "id": 60,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Name the three sensory systems that feed balance information to the brain.",
+    "back": "Somatosensory (proprioceptors in muscles, joints and skin of feet and ankles), visual, and vestibular (semicircular canals and otolith organs)."
+  },
+  {
+    "id": 61,
+    "domain": "endurance_training",
+    "front": "How does a beta blocker change the exercise prescription?",
+    "back": "It lowers resting and exercise HR and BP and reduces max HR by about 20 to 30 bpm. Heart rate formulas become invalid, so use RPE of 11 to 13. It can also mask hypoglycemia."
+  },
+  {
+    "id": 62,
+    "domain": "endurance_training",
+    "front": "State the Fick equation.",
+    "back": "VO2 equals cardiac output times the arteriovenous oxygen difference. Cardiac output covers delivery (central factors) and the AVO2 difference covers muscle use of oxygen (peripheral factors)."
+  },
+  {
+    "id": 63,
+    "domain": "functional_assessment",
+    "front": "Which older gait term matches Rancho initial contact?",
+    "back": "Heel strike. Foot flat ends loading response, heel off starts terminal stance, and toe off ends preswing."
+  },
+  {
+    "id": 64,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which findings support disc herniation as the source of back and leg pain?",
+    "back": "Radicular pain below the knee, positive straight leg raise between about 30 and 70 degrees, and a positive crossed straight leg raise, which is highly specific."
+  },
+  {
+    "id": 65,
+    "domain": "functional_assessment",
+    "front": "Which gait has a wide base with irregular lurching steps, and what lesions cause it?",
+    "back": "Ataxic gait, from cerebellar or dorsal column lesions."
+  },
+  {
+    "id": 66,
+    "domain": "mechanotherapy",
+    "front": "Where is a metatarsal pad placed for metatarsalgia?",
+    "back": "Just proximal to the metatarsal heads to offload them. On or distal to the heads makes pain worse."
+  },
+  {
+    "id": 67,
+    "domain": "endurance_training",
+    "front": "What is the classic formula for estimated maximal heart rate, and its weakness?",
+    "back": "220 minus age. It has a standard deviation of about 10 to 12 bpm, so it can be well off for one person, and it underestimates HRmax in older adults."
+  },
+  {
+    "id": 68,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What scoliometer reading prompts radiographs after a positive Adams forward bend test?",
+    "back": "7 degrees of trunk rotation or more. The Adams test screens for a rib hump."
+  },
+  {
+    "id": 69,
+    "domain": "endurance_training",
+    "front": "What is the difference between VO2 max and VO2 peak?",
+    "back": "A true VO2 max shows at least two criteria: VO2 plateau, RER of 1.10 or higher, HR within 10 bpm of predicted max, or RPE of 18 or more. Without them, the value is VO2 peak."
+  },
+  {
+    "id": 70,
+    "domain": "exercise_physiology",
+    "front": "Which reflex underlies hold relax and contract relax techniques?",
+    "back": "Autogenic inhibition from the Golgi tendon organ, which relaxes the muscle after tension. Do not confuse it with the spindle."
+  },
+  {
+    "id": 71,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "A patient holds a stabilization exercise but holds their breath and tilts the pelvis. What does that mean?",
+    "back": "Progression came too early. Progress only when the correct pattern is held 10 seconds, repeated 10 times with normal breathing."
+  },
+  {
+    "id": 72,
+    "domain": "functional_assessment",
+    "front": "Describe upper crossed syndrome: tight and weak muscles, and posture.",
+    "back": "Tight upper trapezius, levator scapulae, SCM, and pectorals, with weak deep neck flexors, middle and lower trapezius, rhomboids, and serratus. Posture shows forward head and rounded shoulders."
+  },
+  {
+    "id": 73,
+    "domain": "electrotherapy",
+    "front": "Which IFC setup uses four electrodes crossing at right angles in a clover leaf pattern?",
+    "back": "Quadripolar (4 pole) delivery. The center of the crossing is placed over the problem area."
+  },
+  {
+    "id": 74,
+    "domain": "exercise_physiology",
+    "front": "A patient gains strength in the first 4 to 8 weeks with no visible muscle growth. Why?",
+    "back": "Early gains are mainly neural: better recruitment, rate coding, synchronization, less inhibition, and better coordination. Hypertrophy adds more later."
+  },
+  {
+    "id": 75,
+    "domain": "thermotherapy",
+    "front": "A patient lies back on a hot pack on the low back. What is the problem?",
+    "back": "Body weight squeezes out the insulating layers and traps heat, raising burn risk. Do not let the patient lie on the pack."
+  },
+  {
+    "id": 76,
+    "domain": "phototherapy",
+    "front": "Common trap: a laser is rated 100 mW. What value goes into the dose formula?",
+    "back": "0.1 W. You must convert mW to W before using the formula, or the dose will be wrong by a factor of 1000."
+  },
+  {
+    "id": 77,
+    "domain": "electrotherapy",
+    "front": "A patient's conventional TENS relief fades during long wear. What is the cause and the fix?",
+    "back": "Accommodation. Increase intensity slightly or modulate the rate."
+  },
+  {
+    "id": 78,
+    "domain": "mechanotherapy",
+    "front": "Which orthosis suits excessive pronation in posterior tibial dysfunction or medial tibial stress syndrome?",
+    "back": "A medial arch support or medial rearfoot post, a functional orthosis that controls pronation."
+  },
+  {
+    "id": 79,
+    "domain": "electrotherapy",
+    "front": "A 50 mA peak pulsed current has a 1 percent duty cycle. What is the average current?",
+    "back": "0.5 mA. Average current is peak amplitude times duty cycle, which is why a strong feeling device can deliver very little net current."
+  },
+  {
+    "id": 80,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What are the three components of every PNF diagonal?",
+    "back": "Flexion or extension, abduction or adduction, and rotation. Each pattern starts lengthened and finishes shortened."
+  },
+  {
+    "id": 81,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What single leg stance time with eyes open is linked with higher risk of injurious falls?",
+    "back": "Less than 5 seconds. Healthy younger adults usually hold 30 seconds or more with eyes open."
+  },
+  {
+    "id": 82,
+    "domain": "phototherapy",
+    "front": "State the Arndt Schulz principle as it applies to laser dose.",
+    "back": "Too weak a stimulus does nothing, a moderate dose gives the best response, and an excessive dose can inhibit or damage. More is not better."
+  },
+  {
+    "id": 83,
+    "domain": "exercise_physiology",
+    "front": "What is reciprocal inhibition?",
+    "back": "Agonist contraction relaxes the antagonist. It underlies agonist contract techniques."
+  },
+  {
+    "id": 84,
+    "domain": "mechanotherapy",
+    "front": "Which massage stroke is used at the start and end of a session and flows toward the heart?",
+    "back": "Effleurage, a long gliding stroke. Direction toward the heart assists venous and lymphatic return."
+  },
+  {
+    "id": 85,
+    "domain": "muscle_rehabilitation",
+    "front": "What straight leg raise range suggests tight hamstrings?",
+    "back": "Less than about 80 degrees of hip flexion with the knee straight (Kendall). The 90 90 test and popliteal angle also measure hamstring length."
+  },
+  {
+    "id": 86,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Name the standard provocative tests for carpal tunnel syndrome.",
+    "back": "Phalen, reverse Phalen, Tinel sign at the wrist, and the carpal compression test (Durkan)."
+  },
+  {
+    "id": 87,
+    "domain": "mechanotherapy",
+    "front": "A diabetic patient with neuropathy needs ankle taping. What is the concern?",
+    "back": "Skin can break down unnoticed. Neuropathy is a precaution. Remove tape for tingling, numbness, pain, color change or itching, pulling it back along the skin."
+  },
+  {
+    "id": 88,
+    "domain": "muscle_rehabilitation",
+    "front": "What is the usual static stretch dose?",
+    "back": "Hold 15 to 30 seconds per repetition, repeated 2 to 4 times. ACSM allows 10 to 30 seconds, and 30 to 60 seconds for older adults. Holds beyond 60 seconds add little."
+  },
+  {
+    "id": 89,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Compare abdominal hollowing and bracing, and who favors each.",
+    "back": "Hollowing draws the lower abdomen in to target TrA and deep multifidus (Richardson, Hodges, Jull). Bracing co contracts the whole wall and McGill found it gives more stability, so it suits lifting and athletes."
+  },
+  {
+    "id": 90,
+    "domain": "muscle_rehabilitation",
+    "front": "What are the parameters for power training?",
+    "back": "About 30 to 60 percent of 1RM lifted as fast as possible with control, 1 to 3 sets of 3 to 6 repetitions, with full rest."
+  },
+  {
+    "id": 91,
+    "domain": "functional_assessment",
+    "front": "What is the standard four step corrective sequence?",
+    "back": "Inhibit the overactive muscle, lengthen it with static stretch (about 15 to 30 seconds, 2 to 4 reps), activate the weak muscle, then integrate into functional patterns."
+  },
+  {
+    "id": 92,
+    "domain": "mechanotherapy",
+    "front": "A patient with cervical radiculopathy is placed with the neck in extension for traction. What is wrong?",
+    "back": "Extension narrows the foramina and is the wrong choice. Use about 20 to 30 degrees of flexion to open them."
+  },
+  {
+    "id": 93,
+    "domain": "muscle_rehabilitation",
+    "front": "A patient lifts 150 lb for 10 repetitions. What is the estimated 1RM?",
+    "back": "About 200 lb. Epley: 150 times (1 plus 10 divided by 30). Check: the 10RM is roughly 75 percent of 1RM, and 150 divided by 0.75 is 200."
+  },
+  {
+    "id": 94,
+    "domain": "mechanotherapy",
+    "front": "Which stroke is used on a tendon adhesion, and what is Cyriax technique?",
+    "back": "Friction, small deep circular or transverse movements. Deep transverse friction is applied across the fibers of the tendon or ligament."
+  },
+  {
+    "id": 95,
+    "domain": "electrotherapy",
+    "front": "A small electrode and a large electrode carry the same current. Where is sensation strongest and why?",
+    "back": "Under the small active electrode, because current density is higher there. The large dispersive electrode spreads current out and feels weaker."
+  },
+  {
+    "id": 96,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "When do the Ottawa ankle rules call for radiographs?",
+    "back": "Malleolar pain with tenderness at the posterior edge or tip of either malleolus, or inability to bear weight for four steps, both at the time and in clinic."
+  },
+  {
+    "id": 97,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What Cobb angle defines scoliosis?",
+    "back": "A lateral curve of 10 degrees or more with vertebral rotation. Adolescent idiopathic is most common and more likely to progress in girls with much growth remaining."
+  },
+  {
+    "id": 98,
+    "domain": "electrotherapy",
+    "front": "A balanced symmetrical biphasic waveform has what net charge, and why does that matter?",
+    "back": "Zero net charge. With no net polarity there are no DC skin reactions, so chemical burn risk is low."
+  },
+  {
+    "id": 99,
+    "domain": "endurance_training",
+    "front": "What are the ACSM MET bands for light, moderate, and vigorous intensity?",
+    "back": "Light is below 3 METs, moderate is 3 to 5.9 METs, and vigorous is 6 METs or more. Walking 3 mph is about 3.5 METs, so moderate."
+  },
+  {
+    "id": 100,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How does morning stiffness separate OA from rheumatoid arthritis?",
+    "back": "OA stiffness lasts under 30 minutes. Rheumatoid arthritis stiffness lasts more than 60 minutes."
+  },
+  {
+    "id": 101,
+    "domain": "endurance_training",
+    "front": "What happens to lactate threshold with endurance training?",
+    "back": "It shifts to a higher percentage of VO2 max, so the client can work harder before lactate accumulates."
+  },
+  {
+    "id": 102,
+    "domain": "muscle_rehabilitation",
+    "front": "Which exercise strengthens the serratus anterior, and what does weakness look like?",
+    "back": "The push up plus. Weakness gives scapular winging, with the medial border lifting off the ribs, from long thoracic nerve involvement, most obvious in a wall push up."
+  },
+  {
+    "id": 103,
+    "domain": "exercise_physiology",
+    "front": "Does lactate cause delayed onset muscle soreness?",
+    "back": "No. Lactate is a fuel and is cleared within about an hour. DOMS comes from eccentric microdamage; hydrogen ions, not lactate, contribute to fatigue."
+  },
+  {
+    "id": 104,
+    "domain": "exercise_physiology",
+    "front": "Which energy system dominates efforts beyond about 2 to 3 minutes, and about how much ATP per glucose?",
+    "back": "The oxidative system in the mitochondria, with about 30 to 32 ATP per glucose. It is slow to start but nearly unlimited."
+  },
+  {
+    "id": 105,
+    "domain": "phototherapy",
+    "front": "Which drug groups lower the MED and require a medication history before UV?",
+    "back": "Tetracyclines, sulfonamides, thiazides, phenothiazines, psoralens and coal tar, and some retinoids, NSAIDs and St. John's wort. Retest the MED if a new drug starts."
+  },
+  {
+    "id": 106,
+    "domain": "thermotherapy",
+    "front": "How is spray and stretch performed with a vapocoolant?",
+    "back": "Hold the can 12 to 18 inches away at about 30 degrees. Sweep about 4 inches per second from the trigger point toward the referred zone, 2 to 3 passes, stretching after each."
+  },
+  {
+    "id": 107,
+    "domain": "endurance_training",
+    "front": "What peripheral adaptations widen the AVO2 difference with training?",
+    "back": "More capillary density and larger, more numerous mitochondria, with higher oxidative enzyme activity. The muscle burns more fat and spares glycogen."
+  },
+  {
+    "id": 108,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What are yellow flags?",
+    "back": "Psychosocial risk factors for chronicity, such as fear of movement, catastrophizing and depression. They call for education and graded activity, not referral for pathology."
+  },
+  {
+    "id": 109,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How does vascular claudication differ from neurogenic claudication?",
+    "back": "Vascular claudication is relieved by rest in any posture and has diminished pulses. Neurogenic is relieved by sitting or flexion, and cycling is tolerated."
+  },
+  {
+    "id": 110,
+    "domain": "phototherapy",
+    "front": "Name laser contraindications involving the abdomen and neck.",
+    "back": "Over the pregnant uterus (abdomen and low back in pregnancy), and over the thyroid gland. Also avoid active hemorrhage and the eyes."
+  },
+  {
+    "id": 111,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Why must insertional Achilles tendinopathy avoid dropping the heel below the step?",
+    "back": "Dorsiflexion compresses the tendon against the calcaneus. Heavy slow resistance is an equal alternative for loading."
+  },
+  {
+    "id": 112,
+    "domain": "thermotherapy",
+    "front": "What is cold induced vasodilation (the hunting response)?",
+    "back": "An intermittent protective vasodilation after about 10 to 15 minutes of very cold exposure, mostly in fingers and toes. It is why long cold exposure is avoided."
+  },
+  {
+    "id": 113,
+    "domain": "electrotherapy",
+    "front": "Which waveform has a true polarity because net charge builds under one electrode?",
+    "back": "Monophasic (unidirectional) current. Current flows one way only, so one electrode is clearly the cathode and the other the anode."
+  },
+  {
+    "id": 114,
+    "domain": "thermotherapy",
+    "front": "What is phonophoresis and which drug is the usual antiinflammatory choice?",
+    "back": "Ultrasound driving a topical drug through the skin. Hydrocortisone (often 10 percent cream) in a gel that passes sound."
+  },
+  {
+    "id": 115,
+    "domain": "phototherapy",
+    "front": "Which UV band causes sunburn and is used as narrowband near 311 nm for psoriasis?",
+    "back": "UVB, about 280 to 315 nm. It penetrates the epidermis."
+  },
+  {
+    "id": 116,
+    "domain": "endurance_training",
+    "front": "Describe the first three stages of the Bruce treadmill protocol.",
+    "back": "3 minute stages: 1.7 mph at 10 percent, 2.5 mph at 12 percent, 3.4 mph at 14 percent. Modified Bruce starts at 0 percent grade for frail clients."
+  },
+  {
+    "id": 117,
+    "domain": "thermotherapy",
+    "front": "What water temperature should a hydrocollator unit hold?",
+    "back": "160 to 165 degrees F (71 to 74 degrees C). Packs must soak at least 30 minutes before use."
+  },
+  {
+    "id": 118,
+    "domain": "mechanotherapy",
+    "front": "Why is vertebrobasilar insufficiency a precaution for cervical traction?",
+    "back": "Traction can raise the risk of a cerebrovascular event. Dizziness or nausea during treatment is a reason to stop."
+  },
+  {
+    "id": 119,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What are return to sport requirements after a hamstring strain?",
+    "back": "Pain free full strength and range, plus a pain free sprint. Progress from isometrics to eccentrics (Nordic), running, then sprinting last."
+  },
+  {
+    "id": 120,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which muscles are stretched and which are strengthened to treat scapular dyskinesis?",
+    "back": "Stretch pectoralis minor. Strengthen serratus anterior (push up plus, wall slides) and lower trapezius (prone Y)."
+  },
+  {
+    "id": 121,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What are the three stages of motor learning?",
+    "back": "Cognitive (thinking through each step, many errors), associative (smoother, fewer corrections), and autonomous (automatic). Treatment lowers cues and raises difficulty as the patient advances."
+  },
+  {
+    "id": 122,
+    "domain": "exercise_physiology",
+    "front": "Knowledge of results versus knowledge of performance?",
+    "back": "Results tells the outcome, such as reaching 90 degrees. Performance tells how the movement was done, such as the knee collapsing inward."
+  },
+  {
+    "id": 123,
+    "domain": "exercise_physiology",
+    "front": "Which reflex does plyometric training use on purpose?",
+    "back": "The stretch reflex. A quick stretch before a contraction triggers spindle driven facilitation of the same muscle."
+  },
+  {
+    "id": 124,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which knee angles stress the patellofemoral joint most in open and closed chain exercise?",
+    "back": "Open chain: the last 0 to 30 degrees of extension. Closed chain: deeper flexion. So use 90 to 45 degrees open chain and 0 to 45 degrees closed chain in painful knees."
+  },
+  {
+    "id": 125,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "In scapulohumeral rhythm, what is the ratio of glenohumeral to scapular motion?",
+    "back": "About 2 degrees of glenohumeral motion per 1 degree of scapular upward rotation. In 180 degrees of elevation that is about 120 glenohumeral and 60 scapulothoracic."
+  },
+  {
+    "id": 126,
+    "domain": "electrotherapy",
+    "front": "Which iontophoresis drugs go under the cathode, and which under the anode?",
+    "back": "Cathode: dexamethasone sodium phosphate and acetic acid (negative ions). Anode: lidocaine (positive ion). Like charges repel the drug into tissue."
+  },
+  {
+    "id": 127,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Match scoliosis management to curve size.",
+    "back": "Observe under about 20 degrees, consider bracing at about 25 to 40 degrees in a growing child, consider surgery beyond about 45 to 50 degrees."
+  },
+  {
+    "id": 128,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "A patient stands on a narrow beam and is pushed quickly. Which strategy is used and how?",
+    "back": "The hip strategy. The trunk bends at the hips and upper and lower body move in opposite directions, because the ankles cannot make enough torque."
+  },
+  {
+    "id": 129,
+    "domain": "endurance_training",
+    "front": "Which field test suits older adults or people with heart or lung disease?",
+    "back": "The 6 minute walk test, measuring distance on a flat 30 m corridor. Rest is allowed and the test is submaximal in most patients."
+  },
+  {
+    "id": 130,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Name the three groups a clinician sorts spinal patients into before choosing treatment.",
+    "back": "Urgent referral (red flags), specific mechanical syndrome that responds to a specific approach, and nonspecific pain needing education, activity and graded exercise. Treatment is then matched to the healing stage."
+  },
+  {
+    "id": 131,
+    "domain": "thermotherapy",
+    "front": "Does vapocoolant spray cool deep tissue?",
+    "back": "No, only the skin surface. Its benefit is reflex inhibition of spasm that allows a greater stretch."
+  },
+  {
+    "id": 132,
+    "domain": "exercise_physiology",
+    "front": "A patient in the cognitive stage keeps making errors. What feedback helps most?",
+    "back": "Frequent, simple, external feedback. As errors fall, feedback should be reduced."
+  },
+  {
+    "id": 133,
+    "domain": "endurance_training",
+    "front": "Which VO2 max determinant explains why training raises max cardiac output when max heart rate stays fixed?",
+    "back": "Stroke volume. Maximal heart rate is set by age and does not rise with training, so all of the gain in maximal cardiac output comes from a larger stroke volume."
+  },
+  {
+    "id": 134,
+    "domain": "exercise_physiology",
+    "front": "A patient lifts a very light load. Which motor units are recruited?",
+    "back": "Only the lowest threshold, smallest units, which are slow and fatigue resistant. The recruitment order stays fixed; only how far up it goes changes."
+  },
+  {
+    "id": 135,
+    "domain": "mechanotherapy",
+    "front": "During the first traction session the patient's leg pain moves farther down the limb. What does this mean and what next?",
+    "back": "This is peripheralization, a bad sign. Reduce the force, change the angle, or stop. Centralization with relief is the good response."
+  },
+  {
+    "id": 136,
+    "domain": "functional_assessment",
+    "front": "What gait results from bilateral gluteus medius weakness?",
+    "back": "A waddling gait, with the pelvis dropping alternately on each side."
+  },
+  {
+    "id": 137,
+    "domain": "phototherapy",
+    "front": "What does Bunsen Roscoe reciprocity mean for dosing?",
+    "back": "Total effect depends on intensity times time. A lower intensity for a longer time can give the same dose as a higher intensity for a shorter time."
+  },
+  {
+    "id": 138,
+    "domain": "muscle_rehabilitation",
+    "front": "Which healing phase starts progressive resistance and eccentric loading?",
+    "back": "The remodeling phase, from about week 3 to as long as 12 months. Return to full load should follow strength tests, not only the calendar."
+  },
+  {
+    "id": 139,
+    "domain": "exercise_physiology",
+    "front": "A patient has a 1RM leg press of 200 lb and a strength goal at 85 percent. What load?",
+    "back": "200 x 0.85 = 170 lb."
+  },
+  {
+    "id": 140,
+    "domain": "electrotherapy",
+    "front": "Describe Russian stimulation parameters and why they produce strong tetany.",
+    "back": "2,500 Hz carrier in 10 ms bursts with 10 ms pauses, giving 50 bursts per second at 50 percent burst duty cycle. The 50 per second rate causes tetany."
+  },
+  {
+    "id": 141,
+    "domain": "muscle_rehabilitation",
+    "front": "A quick stretch of a muscle fires which receptor, and what is the result?",
+    "back": "The muscle spindle fires the stretch reflex, so the muscle contracts against the stretch. This is why ballistic stretching carries a higher strain risk."
+  },
+  {
+    "id": 142,
+    "domain": "muscle_rehabilitation",
+    "front": "Which contraction type produces the greatest force and the most DOMS?",
+    "back": "Eccentric, where the muscle lengthens under load. It also uses less energy and is key in tendon rehabilitation and injury prevention."
+  },
+  {
+    "id": 143,
+    "domain": "mechanotherapy",
+    "front": "Why is deep massage over a calf with suspected DVT unsafe?",
+    "back": "The clot could dislodge and travel. Refer first. DVT and acute thrombophlebitis are contraindications to massage."
+  },
+  {
+    "id": 144,
+    "domain": "electrotherapy",
+    "front": "What current density limits prevent chemical burns in iontophoresis?",
+    "back": "At or below about 1.0 mA per cm2 at the cathode and 0.5 mA per cm2 at the anode. Stop if the patient reports stinging or burning."
+  },
+  {
+    "id": 145,
+    "domain": "mechanotherapy",
+    "front": "What is McConnell taping and what is it paired with?",
+    "back": "Rigid tape on the patella, typically with a medial glide, to correct glide, tilt or rotation in patellofemoral pain. It is paired with quadriceps exercise."
+  },
+  {
+    "id": 146,
+    "domain": "electrotherapy",
+    "front": "How is beat frequency found in interferential current?",
+    "back": "Subtract one carrier frequency from the other. Carriers of 4,000 Hz and 4,100 Hz give a 100 Hz beat. Adding them is a common trap."
+  },
+  {
+    "id": 147,
+    "domain": "functional_assessment",
+    "front": "Which muscles decelerate the leg in terminal swing?",
+    "back": "The hamstrings, working eccentrically, while the quadriceps extends the knee to prepare for heel strike."
+  },
+  {
+    "id": 148,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How is deep neck flexor training progressed?",
+    "back": "Start at the lowest controllable pressure in supine with head supported, build endurance with holds first, then progress through sitting, loaded positions and functional tasks."
+  },
+  {
+    "id": 149,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Give the components of upper extremity D1 flexion.",
+    "back": "Shoulder flexion, adduction and external rotation, forearm supination, wrist flexion to the radial side, fingers flexed. It is like reaching up and across the face to the opposite shoulder."
+  },
+  {
+    "id": 150,
+    "domain": "thermotherapy",
+    "front": "How long is an ice pack applied, and which nerves need caution?",
+    "back": "10 to 20 minutes over a damp towel. Be careful over the peroneal nerve at the fibular head and the ulnar nerve at the elbow."
+  },
+  {
+    "id": 151,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Which muscles are tight and which are weak in upper crossed syndrome?",
+    "back": "Tight pectorals and upper trapezius, weak deep neck flexors. Treatment stretches the tight group and strengthens the weak group."
+  },
+  {
+    "id": 152,
+    "domain": "electrotherapy",
+    "front": "At what pulse rates do muscle twitches fuse into smooth tetany?",
+    "back": "Above about 35 to 50 pps. At 1 to 10 pps each pulse causes a separate twitch."
+  },
+  {
+    "id": 153,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How should the freezing (painful) stage of frozen shoulder be treated?",
+    "back": "Match the irritability: grade I and II mobilization, pain free range, heat and TENS. Aggressive stretching makes it worse."
+  },
+  {
+    "id": 154,
+    "domain": "endurance_training",
+    "front": "Which are absolute and which are relative contraindications to exercise testing?",
+    "back": "Absolute: unstable angina, recent MI, uncontrolled arrhythmia, symptomatic severe aortic stenosis. Relative: resting BP above 200 systolic or 110 diastolic, left main stenosis, moderate valve disease."
+  },
+  {
+    "id": 155,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What is balance, and what is the base of support?",
+    "back": "Balance is keeping the center of mass over the base of support. The base of support is the area bounded by the feet."
+  },
+  {
+    "id": 156,
+    "domain": "mechanotherapy",
+    "front": "What is the difference between an active and a latent trigger point?",
+    "back": "Active causes spontaneous pain. Latent hurts only when pressed but can still limit range of motion and weaken the muscle."
+  },
+  {
+    "id": 157,
+    "domain": "mechanotherapy",
+    "front": "How is ischemic compression of a trigger point done?",
+    "back": "Steady firm pressure to about 6 or 7 out of 10 discomfort, held 30 to 90 seconds until the spot softens, then pressure is raised gradually. Finish with a stretch."
+  },
+  {
+    "id": 158,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "After rotator cuff repair, why is active cuff contraction avoided early?",
+    "back": "The repair is biologically weak. Typical course: sling 4 to 6 weeks, passive motion early, active assisted from about week 6, light strengthening weeks 8 to 12."
+  },
+  {
+    "id": 159,
+    "domain": "mechanotherapy",
+    "front": "How does a split table change the force needed for lumbar traction?",
+    "back": "The lower half slides, which removes most friction, so less force may suffice. Still begin below the target and progress."
+  },
+  {
+    "id": 160,
+    "domain": "exercise_physiology",
+    "front": "State Henneman's size principle.",
+    "back": "Motor units are recruited from smallest to largest. Small neurons have low thresholds and supply slow, fatigue resistant fibers that make little force."
+  },
+  {
+    "id": 161,
+    "domain": "exercise_physiology",
+    "front": "Which energy system dominates a 400 meter run, and what is its side effect?",
+    "back": "The glycolytic system, for efforts of about 10 seconds to 2 minutes. It produces hydrogen ions, which lower muscle pH."
+  },
+  {
+    "id": 162,
+    "domain": "phototherapy",
+    "front": "What is the difference between point and scanning laser technique?",
+    "back": "Point technique treats individual points such as tender points or wound edges for a set time each. Scanning moves the probe slowly over a larger area."
+  },
+  {
+    "id": 163,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What does criteria based return to sport require besides time?",
+    "back": "Full or near full pain free motion, no effusion, strength of at least 90 percent of the other side, sound movement quality, and passed hop and agility tests."
+  },
+  {
+    "id": 164,
+    "domain": "thermotherapy",
+    "front": "Define ultrasound intensity and give its unit.",
+    "back": "Beam power divided by the effective radiating area of the sound head, in W/cm2. Therapeutic range is 0.1 to 2.0 W/cm2."
+  },
+  {
+    "id": 165,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "A calf squeeze produces no plantar flexion and a gap is felt. What is the diagnosis?",
+    "back": "Complete Achilles rupture, shown by a positive Thompson test and a palpable gap."
+  },
+  {
+    "id": 166,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "When does the body switch to a stepping strategy?",
+    "back": "When the center of mass moves beyond the base of support. The person steps or reaches to build a new base. If too slow, the person falls."
+  },
+  {
+    "id": 167,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Which balance test is used in concussion screening, and how is it scored?",
+    "back": "The BESS. Six 20 second trials (three stances on firm surface and on foam), up to 10 errors each, total out of 60. A higher score means worse balance."
+  },
+  {
+    "id": 168,
+    "domain": "functional_assessment",
+    "front": "In the Thomas test, the opposite knee extends. Which muscle is tight?",
+    "back": "Rectus femoris. The opposite thigh lifting means tight iliopsoas, and opposite hip abduction with outward rotation means tight TFL and IT band."
+  },
+  {
+    "id": 169,
+    "domain": "muscle_rehabilitation",
+    "front": "How does contract relax differ from hold relax?",
+    "back": "Contract relax uses a concentric contraction of the target muscle, so the limb moves against the clinician's resistance through some range. Hold relax is purely isometric."
+  },
+  {
+    "id": 170,
+    "domain": "functional_assessment",
+    "front": "What is total double support in normal walking, and how does it change with speed?",
+    "back": "About 20 percent of the cycle, 10 percent per period. It shrinks as speed rises and disappears in running, where a flight phase replaces it."
+  },
+  {
+    "id": 171,
+    "domain": "endurance_training",
+    "front": "Which clients cannot use heart rate formulas to set intensity?",
+    "back": "Those on beta blockers, with pacemakers, or after heart transplant. Use RPE for these groups, since heart rate does not respond normally."
+  },
+  {
+    "id": 172,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "A patient has neck pain after manipulation, with diplopia, dysarthria and drop attacks. What do you do?",
+    "back": "Suspect cervical arterial dysfunction (the 5 Ds and 3 Ns). Stop treatment and refer. Do not apply manipulation or traction without screening."
+  },
+  {
+    "id": 173,
+    "domain": "mechanotherapy",
+    "front": "What are petrissage and its purpose?",
+    "back": "Kneading, lifting, squeezing and rolling of the muscle belly. It increases circulation and loosens tight muscle."
+  },
+  {
+    "id": 174,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "How does the sharpened Romberg differ from the standard Romberg?",
+    "back": "It uses a heel to toe (tandem) stance, which narrows the base of support and makes the test harder."
+  },
+  {
+    "id": 175,
+    "domain": "muscle_rehabilitation",
+    "front": "What does the SAID principle mean for exercise choice?",
+    "back": "Specific adaptation to imposed demands. Training should match the goal task in joint angle, speed and contraction type, since slow isometric strength carries over poorly to fast function."
+  },
+  {
+    "id": 176,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Give the Berg Balance Scale fall risk bands.",
+    "back": "41 to 56 is low risk, 21 to 40 is medium risk, and 0 to 20 is high risk (wheelchair level mobility)."
+  },
+  {
+    "id": 177,
+    "domain": "functional_assessment",
+    "front": "Legs crossing the midline during walking suggests what gait and cause?",
+    "back": "Scissoring gait from adductor spasticity, as in spastic diplegia."
+  },
+  {
+    "id": 178,
+    "domain": "functional_assessment",
+    "front": "During observational gait analysis, a fault appears in terminal stance. What are likely causes?",
+    "back": "Weak calf muscles, a stiff great toe, or lost hip extension. Midstance faults point to weak hip abductors or pain, and swing faults to weak dorsiflexors or hip flexors."
+  },
+  {
+    "id": 179,
+    "domain": "electrotherapy",
+    "front": "What frequency range counts as low frequency and which as medium frequency?",
+    "back": "Low frequency is under 1,000 Hz. Medium frequency is 1,000 to 10,000 Hz."
+  },
+  {
+    "id": 180,
+    "domain": "thermotherapy",
+    "front": "A pulse is 2 ms on and 8 ms off. What is the duty cycle?",
+    "back": "2 divided by 10 is 20 percent, a 1 to 4 ratio. This is a pulsed, nonthermal setting."
+  },
+  {
+    "id": 181,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which ligament is injured first in a lateral ankle sprain, and by what mechanism?",
+    "back": "The anterior talofibular ligament (ATFL), then the calcaneofibular. Mechanism is inversion with plantar flexion."
+  },
+  {
+    "id": 182,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How does a high ankle (syndesmotic) sprain differ from a lateral sprain?",
+    "back": "It follows dorsiflexion with external rotation, hurts above the ankle, has a positive squeeze and external rotation test, and heals more slowly."
+  },
+  {
+    "id": 183,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What are the three screens in the CDC STEADI fall risk program?",
+    "back": "The 30 second chair stand, the Timed Up and Go, and the 4 stage balance test."
+  },
+  {
+    "id": 184,
+    "domain": "exercise_physiology",
+    "front": "What happens to type II fiber size with heavy resistance training?",
+    "back": "Type II fibers grow more than type I. Their cross sectional area can end up larger than type I fibers in the same person."
+  },
+  {
+    "id": 185,
+    "domain": "muscle_rehabilitation",
+    "front": "Name four contraindications or cautions for stretching.",
+    "back": "A bony block such as myositis ossificans, unhealed fracture, acute inflammation or fresh hematoma, and sharp acute pain. Recent tendon surgery and hypermobility also apply."
+  },
+  {
+    "id": 186,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which hamstring is most often strained, and what is the strongest risk factor?",
+    "back": "The biceps femoris long head, injured during eccentric work in high speed running. A previous strain is the strongest risk factor."
+  },
+  {
+    "id": 187,
+    "domain": "thermotherapy",
+    "front": "How deep does 3 MHz ultrasound reach, and what is it used for?",
+    "back": "About 1 to 2 cm. Use it for superficial structures such as the elbow, hand, Achilles tendon and plantar fascia."
+  },
+  {
+    "id": 188,
+    "domain": "muscle_rehabilitation",
+    "front": "Which muscle is contracted in a hold relax PNF stretch, and for how long?",
+    "back": "The target (tight) muscle, isometrically, at about 20 to 75 percent of maximal effort for 5 to 10 seconds, followed by relaxation and a further stretch."
+  },
+  {
+    "id": 189,
+    "domain": "thermotherapy",
+    "front": "Why is a coupling medium required for ultrasound?",
+    "back": "Air reflects almost all ultrasound at the skin boundary. Gel, lotion or water must fill every gap between head and skin."
+  },
+  {
+    "id": 190,
+    "domain": "exercise_physiology",
+    "front": "What is cross education and what does it show?",
+    "back": "Training one limb raises strength in the untrained opposite limb. It is evidence that early strength gains are partly central."
+  },
+  {
+    "id": 191,
+    "domain": "thermotherapy",
+    "front": "What is inside a hydrocollator pack, and why does it hold heat so long?",
+    "back": "Silica gel in a canvas pouch. The gel absorbs a large amount of water and keeps its heat for a long time."
+  },
+  {
+    "id": 192,
+    "domain": "electrotherapy",
+    "front": "What is premodulated (bipolar) IFC, and when is it useful?",
+    "back": "The currents are mixed inside the machine and delivered through two electrodes. It is easy to set up and suits small or awkward areas, but the pattern is fixed."
+  },
+  {
+    "id": 193,
+    "domain": "electrotherapy",
+    "front": "What is the difference between a phase and a pulse?",
+    "back": "A phase is one direction of current flow from baseline and back. A pulse is one or more phases grouped together."
+  },
+  {
+    "id": 194,
+    "domain": "thermotherapy",
+    "front": "A patient has a cardiac pacemaker and shoulder pain. Is ultrasound over the chest area appropriate?",
+    "back": "No. Do not use ultrasound over the heart or near a pacemaker. Other areas to avoid are eyes, gonads, pregnant uterus and malignancy."
+  },
+  {
+    "id": 195,
+    "domain": "functional_assessment",
+    "front": "In a squat the knees move inward. Which muscles are weak or tight?",
+    "back": "Weak gluteus medius and maximus with tight adductors cause dynamic valgus."
+  },
+  {
+    "id": 196,
+    "domain": "endurance_training",
+    "front": "What is the Tanaka formula for HRmax?",
+    "back": "208 minus 0.7 x age. For a 40 year old it gives 180 bpm, the same as 220 minus age, but it is more accurate in older adults."
+  },
+  {
+    "id": 197,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What treatment has the strongest evidence for patellofemoral pain?",
+    "back": "Hip and quadriceps strengthening, plus load management. Taping, bracing and orthoses offer short term or selected relief."
+  },
+  {
+    "id": 198,
+    "domain": "exercise_physiology",
+    "front": "What does the Golgi tendon organ detect, and where is it?",
+    "back": "Muscle tension, not length. It sits at the musculotendinous junction, in series with the muscle, and uses the Ib afferent."
+  },
+  {
+    "id": 199,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What early care suits acute mechanical neck pain after sleeping awkwardly?",
+    "back": "Reassurance, short relative rest, gentle active range of motion several times daily, heat or cold for comfort, and avoiding provocative positions. Avoid a prolonged soft collar."
+  },
+  {
+    "id": 200,
+    "domain": "mechanotherapy",
+    "front": "Which findings support choosing cervical traction for neck and arm symptoms?",
+    "back": "A positive distraction test (symptoms ease when the head is lifted) and a positive Spurling test that eases with distraction."
+  },
+  {
+    "id": 201,
+    "domain": "muscle_rehabilitation",
+    "front": "What does a positive Ober test show?",
+    "back": "The upper leg stays up when lowered with the knee bent, showing tightness of the TFL and iliotibial band."
+  },
+  {
+    "id": 202,
+    "domain": "endurance_training",
+    "front": "A client covers 2,400 m in the Cooper 12 minute run. Estimate VO2 max.",
+    "back": "(2,400 minus 504.9) / 44.73 = 42.4 mL/kg/min."
+  },
+  {
+    "id": 203,
+    "domain": "muscle_rehabilitation",
+    "front": "How does the Oxford regimen differ from DeLorme?",
+    "back": "It is reversed: 100 percent, 75 percent, then 50 percent of 10RM. Work heavy while fresh, then lighten as fatigue builds."
+  },
+  {
+    "id": 204,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which patients are absolute contraindications to repeated loading in the McKenzie method?",
+    "back": "Those with cauda equina signs or progressive neurological loss. Surgery is for progressive deficit, cauda equina or intractable pain after conservative care."
+  },
+  {
+    "id": 205,
+    "domain": "phototherapy",
+    "front": "A patient's MED is 60 seconds at 30 inches. How long for one MED at 15 inches?",
+    "back": "Distance is halved, so intensity is 4 times greater. Time = 60 / 4 = 15 seconds."
+  },
+  {
+    "id": 206,
+    "domain": "electrotherapy",
+    "front": "Which TENS mechanism is reversed by naloxone?",
+    "back": "Endogenous opioid release, the mechanism of acupuncture like TENS. Conventional TENS is not reversed by naloxone."
+  },
+  {
+    "id": 207,
+    "domain": "functional_assessment",
+    "front": "State the joint by joint view of Cook and Boyle.",
+    "back": "The ankle, hip, thoracic spine, and glenohumeral joint need mobility. The knee, lumbar spine, and scapula need stability."
+  },
+  {
+    "id": 208,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which meniscus zone can heal, and why?",
+    "back": "The outer third (red zone) has a blood supply and can heal. The inner third (white zone) does not."
+  },
+  {
+    "id": 209,
+    "domain": "exercise_physiology",
+    "front": "A patient completes the target repetitions with good form. How much should load rise?",
+    "back": "About 2 to 10 percent. This is the progression principle: raise overload gradually as the body adapts."
+  },
+  {
+    "id": 210,
+    "domain": "thermotherapy",
+    "front": "A rise of about 1 degree C in tissue is called what level of heating, and what is it used for?",
+    "back": "Mild heating. It speeds healing of acute problems. A 2 to 3 degree C rise is moderate heating for pain and spasm."
+  },
+  {
+    "id": 211,
+    "domain": "muscle_rehabilitation",
+    "front": "Dorsiflexion improves when the knee is bent during the Silfverskiold test. Which muscle is tight?",
+    "back": "The gastrocnemius, which crosses the knee. If dorsiflexion stays limited with the knee bent, suspect the soleus or the ankle joint."
+  },
+  {
+    "id": 212,
+    "domain": "mechanotherapy",
+    "front": "In spray and stretch, which part is the actual treatment?",
+    "back": "The stretch. Vapocoolant is swept over the muscle toward the referral zone from about 18 inches at about 4 inches per second to distract the pain reflex. Follow with a hot pack."
+  },
+  {
+    "id": 213,
+    "domain": "endurance_training",
+    "front": "What percent of VO2R or HRR defines moderate and vigorous intensity?",
+    "back": "Moderate is 40 to below 60 percent, vigorous is 60 to below 90 percent, and light is 30 to below 40 percent, which suits deconditioned clients."
+  },
+  {
+    "id": 214,
+    "domain": "thermotherapy",
+    "front": "Ultrasound is set to 2.0 W/cm2 pulsed at 20 percent duty cycle. What is the SATA intensity?",
+    "back": "2.0 x 0.20 = 0.4 W/cm2. SATA is displayed intensity times duty cycle."
+  },
+  {
+    "id": 215,
+    "domain": "muscle_rehabilitation",
+    "front": "What is held constant in isokinetic exercise?",
+    "back": "Speed of movement. Resistance accommodates to the force applied. Slow speeds (about 60 degrees per second) train strength, 180 to 300 degrees per second train endurance and speed."
+  },
+  {
+    "id": 216,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which rotator cuff tendon is injured most often?",
+    "back": "The supraspinatus. The cuff also includes infraspinatus, teres minor and subscapularis, and it centers the humeral head in the glenoid."
+  },
+  {
+    "id": 217,
+    "domain": "functional_assessment",
+    "front": "What nerve injury commonly causes a Trendelenburg gait?",
+    "back": "The superior gluteal nerve (L4 to S1), which supplies gluteus medius and minimus. Hip pain can also cause it."
+  },
+  {
+    "id": 218,
+    "domain": "thermotherapy",
+    "front": "What water temperature is used for a cold whirlpool or immersion, and for how long?",
+    "back": "50 to 60 degrees F (10 to 15 degrees C) for 10 to 20 minutes. Water colder than 50 degrees F is poorly tolerated."
+  },
+  {
+    "id": 219,
+    "domain": "electrotherapy",
+    "front": "Which IFC beat frequency range is chosen for pain relief by gate control?",
+    "back": "80 to 150 Hz. Lower beats of 1 to 10 Hz are used for endorphin release and muscle pumping for edema."
+  },
+  {
+    "id": 220,
+    "domain": "electrotherapy",
+    "front": "How is HVPC set up for acute edema?",
+    "back": "Cathode over the injured area (limb often in a cool water bath), sensory level, about 120 pps, for 30 minutes. Negative polarity repels plasma proteins, retarding edema."
+  },
+  {
+    "id": 221,
+    "domain": "phototherapy",
+    "front": "Why is epilepsy a laser precaution?",
+    "back": "Some pulsed devices flash in a frequency range that may trigger seizures, so use caution."
+  },
+  {
+    "id": 222,
+    "domain": "electrotherapy",
+    "front": "For HVPC wound care, which polarity is used first and which later?",
+    "back": "Cathode first for the inflammatory phase and infected or sloughy wounds. Switch to the anode for granulation and epithelialization."
+  },
+  {
+    "id": 223,
+    "domain": "exercise_physiology",
+    "front": "How does a muscle produce fine, graded force?",
+    "back": "By changing how many motor units are active and how fast each fires. Individual units are all or none, so grading comes from number and rate."
+  },
+  {
+    "id": 224,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Which type of balance is the response to an unexpected push or slip?",
+    "back": "Reactive balance. Anticipatory balance is the adjustment made before a voluntary movement, such as bracing the trunk before lifting an arm."
+  },
+  {
+    "id": 225,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Give the McKenzie progression for an extension preference patient.",
+    "back": "Prone lying, prone on elbows, prone press ups, then standing extension, about 10 repetitions several times a day. Correct a lateral shift with side glide first."
+  },
+  {
+    "id": 226,
+    "domain": "muscle_rehabilitation",
+    "front": "Which muscles are tight and which are weak in Janda's upper crossed pattern?",
+    "back": "Tight: upper trapezius, levator scapulae, pectoralis major and minor. Weak: deep neck flexors, lower trapezius, rhomboids, serratus anterior. Result is forward head and rounded shoulders."
+  },
+  {
+    "id": 227,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "A patient reaches 24 mmHg but cannot hold 26 mmHg without SCM substitution. Where does training start?",
+    "back": "At 24 mmHg, 10 holds of 10 seconds. Progress to 26 mmHg after 10 clean repetitions with no superficial muscle takeover."
+  },
+  {
+    "id": 228,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How do shin splints differ from a tibial stress fracture?",
+    "back": "Shin splints: diffuse pain over 5 cm or more that eases with warm up. Stress fracture: focal point tenderness, pain at rest, hopping pain, positive fulcrum test."
+  },
+  {
+    "id": 229,
+    "domain": "thermotherapy",
+    "front": "About how large an area may be treated relative to the ERA?",
+    "back": "No more than about 2 to 3 times the ERA. Treat larger regions in sections or use a larger head."
+  },
+  {
+    "id": 230,
+    "domain": "endurance_training",
+    "front": "In what order should an aerobic program be progressed?",
+    "back": "Increase time first, then frequency, then intensity, by roughly 5 to 10 percent every 1 to 2 weeks."
+  },
+  {
+    "id": 231,
+    "domain": "endurance_training",
+    "front": "How fast does VO2 max decline with age, and how does it differ by sex?",
+    "back": "About 10 percent per decade after the late twenties, roughly 1 percent per year. Women run about 15 to 30 percent lower than men, from smaller hearts, lower hemoglobin, and more body fat."
+  },
+  {
+    "id": 232,
+    "domain": "muscle_rehabilitation",
+    "front": "Name the three phases of a plyometric movement and which one should be shortest.",
+    "back": "Eccentric loading, amortization (the brief pause), and concentric unloading. A shorter amortization phase means more power; a long pause wastes stored elastic energy."
+  },
+  {
+    "id": 233,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which whiplash phase starts deep neck flexor and scapular work plus postural correction?",
+    "back": "The subacute phase, about 2 to 12 weeks. Acute is education and gentle motion, chronic adds strengthening, endurance and sensorimotor training."
+  },
+  {
+    "id": 234,
+    "domain": "electrotherapy",
+    "front": "Calculate the phase charge of a 50 mA phase lasting 100 microseconds.",
+    "back": "5 microcoulombs. Amplitude 50 mA times 100 µs gives 5 µC of charge in that phase."
+  },
+  {
+    "id": 235,
+    "domain": "endurance_training",
+    "front": "A trained client's resting HR drops 15 bpm. Is training ineffective?",
+    "back": "No. A lower resting and submaximal heart rate is an expected adaptation, from higher stroke volume and plasma volume. It does not mean the client is not working hard."
+  },
+  {
+    "id": 236,
+    "domain": "phototherapy",
+    "front": "Why is laser contraindicated over a known or suspected malignancy?",
+    "back": "Laser may stimulate cell growth, which is a concern over cancer tissue."
+  },
+  {
+    "id": 237,
+    "domain": "exercise_physiology",
+    "front": "What does the muscle spindle detect, and where does it lie?",
+    "back": "Muscle length and rate of length change. It lies in parallel with the extrafusal fibers and uses the Ia afferent."
+  },
+  {
+    "id": 238,
+    "domain": "mechanotherapy",
+    "front": "How do you tell a trigger point from a fibromyalgia tender point?",
+    "back": "A trigger point has a taut band, twitch response and referred pain. Fibromyalgia tender points are widespread, so use gentler pressure."
+  },
+  {
+    "id": 239,
+    "domain": "electrotherapy",
+    "front": "In what order does a short pulse recruit nerve fibers as intensity rises?",
+    "back": "A beta sensory fibers first (tingling), then A alpha motor fibers (contraction), then A delta and C pain fibers (sharp, burning pain)."
+  },
+  {
+    "id": 240,
+    "domain": "mechanotherapy",
+    "front": "A patient on anticoagulants needs massage. How should it be modified?",
+    "back": "Use light pressure only, because of the bleeding and bruising risk. Also use lighter pressure over areas of altered sensation."
+  },
+  {
+    "id": 241,
+    "domain": "thermotherapy",
+    "front": "Which tissues absorb ultrasound most, and which least?",
+    "back": "High protein tissue absorbs most (tendon, ligament, capsule, fascia, scar). Fat and blood absorb little, and water the least."
+  },
+  {
+    "id": 242,
+    "domain": "phototherapy",
+    "front": "What power defines a Class 4 laser, and what can it do?",
+    "back": "Over 500 mW (0.5 W). It can burn skin, damage eyes and ignite materials. High intensity laser therapy devices are Class 4 and can produce heat."
+  },
+  {
+    "id": 243,
+    "domain": "thermotherapy",
+    "front": "Which injury stage is a contraindication to moist heat, and why?",
+    "back": "The first 48 to 72 hours of acute injury or inflammation. Heat increases bleeding and swelling."
+  },
+  {
+    "id": 244,
+    "domain": "phototherapy",
+    "front": "A patient has a chronic pressure ulcer and lateral epicondylalgia. Is laser appropriate?",
+    "back": "Yes. Soft tissue healing of chronic wounds and ulcers, and tendinopathy such as lateral epicondylalgia, are listed laser indications."
+  },
+  {
+    "id": 245,
+    "domain": "thermotherapy",
+    "front": "What tissue temperature rise counts as vigorous heating, and what is its use?",
+    "back": "A rise of 4 degrees C or more. It is used to stretch dense collagen in chronic contracture."
+  },
+  {
+    "id": 246,
+    "domain": "phototherapy",
+    "front": "Which conditions contraindicate UV therapy?",
+    "back": "Photosensitive conditions such as SLE and porphyria, xeroderma pigmentosum, and a history of or active skin cancer including melanoma."
+  },
+  {
+    "id": 247,
+    "domain": "mechanotherapy",
+    "front": "Why is supine usually preferred for cervical traction, and when is sitting used?",
+    "back": "Supine relaxes the muscles and needs less force because the head weight does not resist the pull. Sitting suits home over the door units and patients who cannot lie flat."
+  },
+  {
+    "id": 248,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Name McGill's big three core exercises.",
+    "back": "The curl up (one knee bent, hands under the lumbar curve), the side bridge and the bird dog. They train trunk endurance while keeping spinal load low."
+  },
+  {
+    "id": 249,
+    "domain": "thermotherapy",
+    "front": "How long does ice massage last, and when is it chosen?",
+    "back": "5 to 10 minutes until the skin is pink then numb. It suits small areas such as trigger points, a small tendon or bursa."
+  },
+  {
+    "id": 250,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is the treatment for De Quervain tenosynovitis?",
+    "back": "A thumb spica splint and activity modification, then gentle gliding and strengthening once pain settles."
+  },
+  {
+    "id": 251,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which muscles are the deep neck flexors?",
+    "back": "Longus colli and longus capitis. They control segmental stability, and in neck pain they are inhibited while the sternocleidomastoid and anterior scalenes overwork."
+  },
+  {
+    "id": 252,
+    "domain": "phototherapy",
+    "front": "Why use caution with laser over skin with reduced sensation?",
+    "back": "The patient cannot report excess heat, so overdose or burn may go unnoticed. The same caution applies to impaired circulation."
+  },
+  {
+    "id": 253,
+    "domain": "phototherapy",
+    "front": "List the erythema doses as multiples of MED.",
+    "back": "As commonly taught (textbooks vary slightly): E1 about 2.5 x MED (mild redness), E2 about 5 x MED (strong redness, edema, some peeling), E3 about 10 x MED (pain, blistering, peeling)."
+  },
+  {
+    "id": 254,
+    "domain": "functional_assessment",
+    "front": "What Timed Up and Go time suggests fall risk in older adults?",
+    "back": "Longer than about 12 seconds. The 10 meter walk test is used to measure gait velocity."
+  },
+  {
+    "id": 255,
+    "domain": "muscle_rehabilitation",
+    "front": "A sprinter is about to run maximal sprints. Which stretching style is favored in the warm up, and why?",
+    "back": "Dynamic stretching. It raises muscle temperature and prepares the neuromuscular system, while long static holds just before power work can briefly reduce force output."
+  },
+  {
+    "id": 256,
+    "domain": "endurance_training",
+    "front": "Why does 70 percent of HRmax give a lower number than 70 percent HRR?",
+    "back": "Percent HRmax ignores resting heart rate, while Karvonen adds it back. For HRmax 170, 70 percent is 119 bpm against 137 bpm by Karvonen. Use the formula the question names."
+  },
+  {
+    "id": 257,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Give the components of upper extremity D2 flexion.",
+    "back": "Shoulder flexion, abduction and external rotation, forearm supination, wrist extension to the radial side. A raise up and out."
+  },
+  {
+    "id": 258,
+    "domain": "muscle_rehabilitation",
+    "front": "How does ballistic stretching differ from dynamic stretching?",
+    "back": "Ballistic uses rapid bouncing and momentum to push past normal range. Dynamic is slow, controlled movement through full range with no bounce and no end range hold."
+  },
+  {
+    "id": 259,
+    "domain": "functional_assessment",
+    "front": "The lower back rounds at the bottom of a squat. What is the likely cause?",
+    "back": "Limited hip flexion or tight hamstrings, often called butt wink."
+  },
+  {
+    "id": 260,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Describe Janda's upper crossed syndrome.",
+    "back": "Tight upper trapezius, levator scapulae and pectorals with weak deep neck flexors, lower trapezius and serratus anterior. Stretch the tight muscles and strengthen the weak ones."
+  },
+  {
+    "id": 261,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Why do ankle sprains tend to recur from a proprioception standpoint?",
+    "back": "Capsule and ligament receptors are damaged, so position sense is reduced. Proprioceptive training restores the feedback loop."
+  },
+  {
+    "id": 262,
+    "domain": "endurance_training",
+    "front": "A VO2 of 40.7 mL/kg/min equals how many METs?",
+    "back": "40.7 divided by 3.5 is 11.6 METs. Trap: first convert mL/min to mL/kg/min using body weight, then divide by 3.5."
+  },
+  {
+    "id": 263,
+    "domain": "functional_assessment",
+    "front": "A patient lifts the knee and hip high in swing, then slaps the foot down. Name the gait and cause.",
+    "back": "Steppage gait from foot drop. Cause is deep peroneal nerve injury or an L4 to L5 root problem, so the foot cannot dorsiflex."
+  },
+  {
+    "id": 264,
+    "domain": "exercise_physiology",
+    "front": "How does reduced antagonist cocontraction help strength?",
+    "back": "Less opposing force is wasted, so more net force reaches the movement. It is one neural adaptation, along with reduced Golgi tendon organ inhibition."
+  },
+  {
+    "id": 265,
+    "domain": "exercise_physiology",
+    "front": "Give the strength training zone.",
+    "back": "1 to 6 repetitions at 85 percent of 1RM or more, with 2 to 5 minutes of rest."
+  },
+  {
+    "id": 266,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Why is stretching not the main treatment for iliotibial band syndrome?",
+    "back": "The band does not stretch meaningfully. Reduce compression and training load, strengthen gluteus medius and hip abductors, and correct running mechanics."
+  },
+  {
+    "id": 267,
+    "domain": "endurance_training",
+    "front": "How can a client keep most fitness gains while cutting training time?",
+    "back": "Keep intensity high. Fitness maintenance depends more on intensity than on frequency or duration, so 2 days per week can preserve most gains."
+  },
+  {
+    "id": 268,
+    "domain": "electrotherapy",
+    "front": "Give the settings and intensity level for conventional TENS.",
+    "back": "Rate 50 to 150 pps, pulse duration 50 to 100 µs, strong comfortable tingling with no visible contraction. Onset and offset are quick, and it can be worn for hours."
+  },
+  {
+    "id": 269,
+    "domain": "endurance_training",
+    "front": "Describe Phase II and Phase III cardiac rehabilitation.",
+    "back": "Phase II is outpatient with ECG telemetry, about 3 sessions per week up to 36 sessions. Phase III is long term maintenance with less monitoring for stable patients."
+  },
+  {
+    "id": 270,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which findings define cauda equina syndrome, and what is the action?",
+    "back": "Saddle anesthesia, new bowel or bladder dysfunction, and bilateral leg weakness or sensory loss. It is a surgical emergency, so refer immediately instead of treating."
+  },
+  {
+    "id": 271,
+    "domain": "muscle_rehabilitation",
+    "front": "What exercise is appropriate in the inflammatory phase of muscle healing?",
+    "back": "Protect the tissue with rest, gentle pain free motion, and pain free submaximal isometrics of uninjured muscles nearby. Keep fitness by exercising the rest of the body."
+  },
+  {
+    "id": 272,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How much knee load does each pound of weight loss remove per step?",
+    "back": "About 4 pounds of load per step, which is why weight loss is a first line OA strategy along with exercise."
+  },
+  {
+    "id": 273,
+    "domain": "endurance_training",
+    "front": "How soon do VO2 max losses appear after stopping training, and what causes them first?",
+    "back": "Within 2 to 4 weeks. Early loss comes from falling plasma volume and stroke volume, later loss from lower mitochondrial enzymes and capillary changes."
+  },
+  {
+    "id": 274,
+    "domain": "phototherapy",
+    "front": "What is the therapeutic or optical window?",
+    "back": "Roughly 600 to 1300 nm (some texts give about 650 to 1100 nm), where absorption by water and hemoglobin is relatively low, so light can reach deeper tissue."
+  },
+  {
+    "id": 275,
+    "domain": "functional_assessment",
+    "front": "In a squat, the heels rise off the floor. What is the likely limitation?",
+    "back": "Limited ankle dorsiflexion from tight gastrocnemius or soleus."
+  },
+  {
+    "id": 276,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "In the 4 stage balance test, which result indicates increased fall risk?",
+    "back": "Inability to hold the tandem stance for 10 seconds. Stages are feet side by side, semi tandem, tandem and single leg, each held 10 seconds."
+  },
+  {
+    "id": 277,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Where is a counterforce brace placed for epicondylalgia?",
+    "back": "About 1 to 2 inches below the epicondyle, which may reduce symptoms during activity."
+  },
+  {
+    "id": 278,
+    "domain": "thermotherapy",
+    "front": "What does the beam nonuniformity ratio (BNR) describe?",
+    "back": "Peak intensity compared with average intensity across the ERA. A BNR of 4 to 1 at 1.0 W/cm2 means hot spots reach 4.0 W/cm2."
+  },
+  {
+    "id": 279,
+    "domain": "muscle_rehabilitation",
+    "front": "Why is closed chain exercise favored early after ACL reconstruction?",
+    "back": "It puts less shear on the graft. Resisted open chain knee extension strains the ACL most from about 45 degrees to full extension and is safer from 90 to 45 degrees."
+  },
+  {
+    "id": 280,
+    "domain": "thermotherapy",
+    "front": "How do you calculate duty cycle?",
+    "back": "On time divided by total time (on plus off), times 100. Continuous ultrasound is 100 percent."
+  },
+  {
+    "id": 281,
+    "domain": "endurance_training",
+    "front": "What is VO2 max and in what units is it measured?",
+    "back": "The most oxygen the body can take in, deliver, and use during hard exercise. It is measured in mL of oxygen per kg of body weight per minute (mL/kg/min)."
+  },
+  {
+    "id": 282,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which treatments are used for plantar fasciitis?",
+    "back": "Calf and plantar fascia stretching, taping, orthoses, night splints, and high load slow heel raises with a rolled towel under the toes."
+  },
+  {
+    "id": 283,
+    "domain": "muscle_rehabilitation",
+    "front": "A patient can move the limb through full range only with gravity eliminated. What is the MMT grade?",
+    "back": "Grade 2 (poor). Grade 3 (fair) is the first grade done against gravity, so grade 3 is the pivot."
+  },
+  {
+    "id": 284,
+    "domain": "mechanotherapy",
+    "front": "What are the basic principles of rigid athletic tape application?",
+    "back": "Clean and shave skin, use underwrap, tape in neutral, anchor on solid tissue above and below, overlap half the tape width, avoid wrinkles and tight wraps, and check toe color, warmth and sensation."
+  },
+  {
+    "id": 285,
+    "domain": "thermotherapy",
+    "front": "At the same intensity, which heats faster, 1 MHz or 3 MHz, and why?",
+    "back": "3 MHz heats about three times faster. Its energy is absorbed in a much smaller volume of tissue."
+  },
+  {
+    "id": 286,
+    "domain": "phototherapy",
+    "front": "A 50 mW laser has a 0.5 cm2 probe tip. How long to deliver 3 J/cm2?",
+    "back": "Convert 50 mW to 0.05 W. Energy = 3 x 0.5 = 1.5 J. Time = 1.5 / 0.05 = 30 seconds."
+  },
+  {
+    "id": 287,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Describe the Timed Up and Go and its cut points.",
+    "back": "Stand from an armchair, walk 3 meters, turn, return and sit. Under 10 seconds is normal. 12 seconds or more is the CDC STEADI cut point for increased fall risk."
+  },
+  {
+    "id": 288,
+    "domain": "mechanotherapy",
+    "front": "A patient has 3/4 inch structural leg length discrepancy. What heel lift do you start with?",
+    "back": "About half to two thirds of the difference. Half is 3/8 inch on the short side, then recheck and progress toward 1/2 inch. Never lift the long leg."
+  },
+  {
+    "id": 289,
+    "domain": "thermotherapy",
+    "front": "A patient has diabetic neuropathy in the foot with a subacute sprain. Why is a hot pack risky?",
+    "back": "Impaired thermal sensation means the patient cannot report excessive heat. Burns can occur without warning."
+  },
+  {
+    "id": 290,
+    "domain": "thermotherapy",
+    "front": "How deep does 1 MHz ultrasound reach, and what is it used for?",
+    "back": "About 3 to 5 cm. Use it for deep structures such as the hip, deep muscle and low back."
+  },
+  {
+    "id": 291,
+    "domain": "functional_assessment",
+    "front": "Weak plantarflexors cause loss of push off. What is this gait and its nerve?",
+    "back": "Calcaneal gait, from tibial nerve involvement (S1 to S2)."
+  },
+  {
+    "id": 292,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Describe the Alfredson protocol for midportion Achilles tendinopathy.",
+    "back": "Eccentric heel drops, 3 sets of 15, twice daily, 7 days per week for 12 weeks, with straight knee (gastrocnemius) and bent knee (soleus) versions."
+  },
+  {
+    "id": 293,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "How many tasks and what maximum score does the Berg Balance Scale have?",
+    "back": "14 tasks, each scored 0 to 4, for a maximum of 56."
+  },
+  {
+    "id": 294,
+    "domain": "muscle_rehabilitation",
+    "front": "What is the Trendelenburg sign and which muscle weakness causes it?",
+    "back": "The pelvis drops on the side opposite the stance leg, or the trunk leans toward the stance side to compensate. It reflects gluteus medius weakness on the stance side."
+  },
+  {
+    "id": 295,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is the emphasis in chronic low back pain care?",
+    "back": "Graded activity, strengthening, aerobic conditioning, task specific training and pain education. Passive modalities alone are not recommended."
+  },
+  {
+    "id": 296,
+    "domain": "functional_assessment",
+    "front": "Which muscles hold the pelvis level in midstance?",
+    "back": "Gluteus medius, gluteus minimus, and tensor fasciae latae. The soleus also controls the advancing tibia eccentrically."
+  },
+  {
+    "id": 297,
+    "domain": "muscle_rehabilitation",
+    "front": "What is the difference between MMT grades 4 and 5?",
+    "back": "Grade 4 holds full range against gravity and moderate resistance, grade 5 against maximal resistance. MMT separates these poorly, so handheld dynamometry gives more objective numbers."
+  },
+  {
+    "id": 298,
+    "domain": "electrotherapy",
+    "front": "What is microcurrent, and how does the patient feel it?",
+    "back": "Very low amplitude current, under 1,000 µA and often under 500 µA. It is subsensory, so the patient feels nothing. Evidence is weaker than for TENS or HVPC."
+  },
+  {
+    "id": 299,
+    "domain": "electrotherapy",
+    "front": "Which TENS mode suits painful procedures like wound debridement, and for how long?",
+    "back": "Brief intense TENS: 100 to 150 pps, 150 to 250 µs, maximum tolerated intensity, about 15 minutes. It gives rapid onset."
+  },
+  {
+    "id": 300,
+    "domain": "phototherapy",
+    "front": "Which wavelength band is chosen for a deep target such as tendon or joint?",
+    "back": "Near infrared, about 780 to 950 nm (808, 830 or 904 nm diodes). It penetrates up to a few centimetres, though little light survives that far."
+  },
+  {
+    "id": 301,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is the best supported treatment for tennis or golfer's elbow?",
+    "back": "Education and load management, then progressive eccentric and isometric loading of the wrist muscles, grip work, and attention to the shoulder chain. Both are degenerative, not truly inflammatory."
+  },
+  {
+    "id": 302,
+    "domain": "exercise_physiology",
+    "front": "How fast does phosphocreatine recover?",
+    "back": "Half complete in about 30 seconds and nearly complete in 3 to 5 minutes. Stores run out in roughly 10 to 15 seconds of all out work."
+  },
+  {
+    "id": 303,
+    "domain": "endurance_training",
+    "front": "What ACSM weekly aerobic dose is recommended for healthy adults?",
+    "back": "150 minutes per week of moderate exercise, or 75 minutes of vigorous, in bouts of at least 10 minutes. Frequency is 5 or more days moderate or 3 or more days vigorous."
+  },
+  {
+    "id": 304,
+    "domain": "thermotherapy",
+    "front": "Name the three ways heat reaches tissue and an example of each.",
+    "back": "Conduction (hot pack), convection (whirlpool) and conversion (ultrasound turns absorbed sound into heat)."
+  },
+  {
+    "id": 305,
+    "domain": "endurance_training",
+    "front": "A 50 year old with resting HR 60 trains at 70 percent HRR. What is the target HR?",
+    "back": "HRmax 170, HRR 110. Target = (110 x 0.70) + 60 = 137 bpm."
+  },
+  {
+    "id": 306,
+    "domain": "phototherapy",
+    "front": "Which enzyme in mitochondria absorbs red and near infrared light in LLLT?",
+    "back": "Cytochrome c oxidase, in the electron transport chain. Absorption is thought to raise ATP production and release bound nitric oxide."
+  },
+  {
+    "id": 307,
+    "domain": "thermotherapy",
+    "front": "Give a typical continuous thermal dose at 1 MHz.",
+    "back": "1.0 to 2.0 W/cm2. At 3 MHz the thermal dose is lower, about 0.5 to 1.0 W/cm2."
+  },
+  {
+    "id": 308,
+    "domain": "functional_assessment",
+    "front": "What is the peak knee flexion in initial swing, and why is it needed?",
+    "back": "About 60 degrees. It shortens the limb so the toes clear the floor as the leg swings forward."
+  },
+  {
+    "id": 309,
+    "domain": "phototherapy",
+    "front": "A 0.1 W laser treats a 1 cm2 spot for 40 seconds. What is the dose?",
+    "back": "Energy = 0.1 x 40 = 4 J. Dose = 4 J / 1 cm2 = 4 J/cm2."
+  },
+  {
+    "id": 310,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How do upper and lower ribs move during breathing?",
+    "back": "Upper ribs move in a pump handle pattern, lower ribs in a bucket handle pattern. Rib dysfunction gives sharp localized pain with breathing, coughing or rotation."
+  },
+  {
+    "id": 311,
+    "domain": "mechanotherapy",
+    "front": "A 180 lb patient is on a standard table with a lumbar disc protrusion. What target distraction force and friction force apply?",
+    "back": "Target is 180 x 0.50 = 90 lb. Friction is overcome at about 25 percent, or 45 lb. Below 45 lb most force is wasted on friction."
+  },
+  {
+    "id": 312,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What exercise advice applies to a kyphotic patient with osteoporosis?",
+    "back": "Avoid loaded spinal flexion and forceful twisting. Emphasize extension, balance and weight bearing work, plus thoracic extensor and mid and lower trapezius strengthening."
+  },
+  {
+    "id": 313,
+    "domain": "electrotherapy",
+    "front": "What carries electrical current through body tissue?",
+    "back": "Ions in tissue fluid carry the current, not free electrons as in a wire."
+  },
+  {
+    "id": 314,
+    "domain": "endurance_training",
+    "front": "What is the Astrand Rhyming test?",
+    "back": "A submaximal cycle test using a single 6 minute stage at a steady heart rate of 125 to 170 bpm to estimate VO2 max."
+  },
+  {
+    "id": 315,
+    "domain": "endurance_training",
+    "front": "A 40 year old has resting HR 70. What is the 60 to 80 percent Karvonen zone?",
+    "back": "HRmax 180, HRR 110. At 60 percent: 66 + 70 = 136 bpm. At 80 percent: 88 + 70 = 158 bpm. The zone is 136 to 158 bpm."
+  },
+  {
+    "id": 316,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Chronic tendon pain with disorganized collagen and few inflammatory cells is called what?",
+    "back": "Tendinopathy, not tendinitis. Rest and anti inflammatories work poorly, while progressive loading works well."
+  },
+  {
+    "id": 317,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "An athlete hops 150 cm on the involved leg and 180 cm on the other. What is the limb symmetry index, and is clearance given?",
+    "back": "150 divided by 180 times 100 is about 83 percent. That is below the 90 percent standard, so the athlete is not yet cleared."
+  },
+  {
+    "id": 318,
+    "domain": "phototherapy",
+    "front": "How may nitric oxide release help tissue during laser therapy?",
+    "back": "Nitric oxide freed from cytochrome c oxidase can cause vasodilation, improving local blood flow."
+  },
+  {
+    "id": 319,
+    "domain": "exercise_physiology",
+    "front": "What is rate coding?",
+    "back": "Raising the firing frequency of motor units already recruited. Recruitment is the main strategy at low force, and rate coding adds the rest at high force."
+  },
+  {
+    "id": 320,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Why must rehabilitation follow the developmental sequence?",
+    "back": "Development runs head to toe and trunk to limbs, so a patient who cannot hold quadruped is not ready for single leg stance."
+  },
+  {
+    "id": 321,
+    "domain": "electrotherapy",
+    "front": "How do you calculate duty cycle for pulsed current?",
+    "back": "Pulse duration times frequency. A 100 µs pulse at 100 pps gives 0.0001 x 100 = 0.01, or 1 percent."
+  },
+  {
+    "id": 322,
+    "domain": "thermotherapy",
+    "front": "Which duty cycle gives a thermal effect and which gives a nonthermal effect?",
+    "back": "Continuous (100 percent) is thermal. Pulsed, usually 20 percent or 50 percent, is nonthermal because heat clears during off time."
+  },
+  {
+    "id": 323,
+    "domain": "phototherapy",
+    "front": "What does the Grotthuss Draper law say about light therapy?",
+    "back": "Light must be absorbed by tissue to have any effect. Light that passes through or reflects away produces no therapeutic response."
+  },
+  {
+    "id": 324,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "In McKenzie terms, what are centralization and peripheralization?",
+    "back": "Centralization is referred pain moving toward the spine, a good prognosis sign. Peripheralization is pain moving farther down the limb, a bad response, so stop that movement."
+  },
+  {
+    "id": 325,
+    "domain": "thermotherapy",
+    "front": "Why must the sound head never be held still?",
+    "back": "Hot spots from the BNR can burn tissue or the periosteum. Keep it moving at about 4 cm per second."
+  },
+  {
+    "id": 326,
+    "domain": "muscle_rehabilitation",
+    "front": "A patient's knee extension 10RM is 40 lb. What loads does Oxford prescribe?",
+    "back": "40 lb, then 30 lb, then 20 lb, each for 10 repetitions. DeLorme would use 20, 30, then 40 lb."
+  },
+  {
+    "id": 327,
+    "domain": "phototherapy",
+    "front": "How should the laser probe be held relative to the skin, and why?",
+    "back": "At a right angle (perpendicular) to give maximum intensity, following the cosine law."
+  },
+  {
+    "id": 328,
+    "domain": "exercise_physiology",
+    "front": "Which muscles have small motor units of about 10 fibers per neuron?",
+    "back": "Muscles built for fine control. Large muscles like the gastrocnemius have hundreds to over 1,000 fibers per neuron."
+  },
+  {
+    "id": 329,
+    "domain": "electrotherapy",
+    "front": "Which electrode produces an alkaline reaction under DC, and which burns worse?",
+    "back": "The cathode (negative) is alkaline, forming sodium hydroxide. Its liquefactive damage makes cathode burns generally worse than anode burns."
+  },
+  {
+    "id": 330,
+    "domain": "functional_assessment",
+    "front": "Cadence is 110 steps per minute and step length is 0.70 m. What is velocity?",
+    "back": "Velocity = cadence x step length = 77 m per minute, about 1.28 m per second. Cadence counts steps, not strides."
+  },
+  {
+    "id": 331,
+    "domain": "phototherapy",
+    "front": "What is the formula for laser dose, and what are its units?",
+    "back": "Dose (J/cm2) = power (W) x time (s) divided by area (cm2). It is also called energy density or fluence."
+  },
+  {
+    "id": 332,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "A patient already sways with eyes open during Romberg. What does that point to?",
+    "back": "A cerebellar or vestibular problem, not a simple proprioceptive loss. The test is not a clean positive Romberg in that case."
+  },
+  {
+    "id": 333,
+    "domain": "thermotherapy",
+    "front": "What is the FDA limit for BNR, and what BNR does a good head have?",
+    "back": "The limit is 8 to 1. A good head runs about 2 to 1 up to 6 to 1. Lower means a more uniform beam."
+  },
+  {
+    "id": 334,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "An older patient has leg heaviness walking that eases by leaning on a shopping cart. Diagnosis and treatment bias?",
+    "back": "Lumbar stenosis with neurogenic claudication. Flexion widens the canal, so use a flexion bias: knee to chest, pelvic tilts, cycling. Avoid sustained extension and press ups."
+  },
+  {
+    "id": 335,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How is transversus abdominis and multifidus activation trained?",
+    "back": "With the abdominal drawing in maneuver, lumbar spine neutral, then progressing to dynamic and functional tasks. Endurance matters more than maximal strength for spine protection."
+  },
+  {
+    "id": 336,
+    "domain": "exercise_physiology",
+    "front": "Why must a patient lift heavy, or lighter loads near failure, to train the largest motor units?",
+    "back": "Those highest threshold units are recruited last, only when force demand is high. They have the greatest growth potential."
+  },
+  {
+    "id": 337,
+    "domain": "phototherapy",
+    "front": "What does the cosine law say about the angle of the beam to the skin?",
+    "back": "Intensity is greatest when the beam is perpendicular. As the angle of incidence from the perpendicular grows, intensity falls in proportion to its cosine."
+  },
+  {
+    "id": 338,
+    "domain": "phototherapy",
+    "front": "Is the effect of low level laser at standard doses thermal or photochemical?",
+    "back": "Photochemical. Class 3B devices at standard doses do not raise skin temperature appreciably, so LLLT does not work by heating."
+  },
+  {
+    "id": 339,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Name the McGill big three exercises and their goal.",
+    "back": "Modified curl up, side bridge and bird dog. The goal is endurance with a neutral spine, not spinal flexion sit ups."
+  },
+  {
+    "id": 340,
+    "domain": "exercise_physiology",
+    "front": "Which energy system fuels a 10 second maximal sprint, and what enzyme drives it?",
+    "back": "The ATP PC system, anaerobic and alactic. Creatine kinase moves a phosphate from phosphocreatine to ADP, remaking ATP at once."
+  },
+  {
+    "id": 341,
+    "domain": "electrotherapy",
+    "front": "How is iontophoresis dose calculated, and what is 4 mA for 10 minutes?",
+    "back": "Dose is mA times minutes. 4 mA for 10 minutes is 40 mA minutes, the same as 2 mA for 20 minutes. Typical doses are 40 to 80."
+  },
+  {
+    "id": 342,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What are the two main uses of EMG biofeedback?",
+    "back": "Up training to wake an inhibited muscle such as vastus medialis after knee surgery, and down training to relax an overactive muscle such as upper trapezius in tension headache."
+  },
+  {
+    "id": 343,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "You progress a balance exercise. Which variables do you change, and how many at a time?",
+    "back": "One at a time: base of support, surface, vision, movement, then added challenge such as a second task or outside pushes, easier to harder."
+  },
+  {
+    "id": 344,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "List the four findings in the Wainner cluster for cervical radiculopathy.",
+    "back": "Positive Spurling test, positive upper limb tension test A (median nerve), positive distraction test, and cervical rotation under 60 degrees to the involved side. Three of four makes radiculopathy likely."
+  },
+  {
+    "id": 345,
+    "domain": "exercise_physiology",
+    "front": "What is a motor unit?",
+    "back": "One alpha motor neuron plus every muscle fiber it supplies. All its fibers contract together, following the all or none law."
+  },
+  {
+    "id": 346,
+    "domain": "mechanotherapy",
+    "front": "What are the uses and limits of a lumbar corset or LSO?",
+    "back": "It raises intra abdominal pressure and cues the wearer to avoid motion extremes. Evidence for preventing work back pain is weak. Overuse causes dependence and trunk weakness, so use briefly with exercise."
+  },
+  {
+    "id": 347,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What happens to multifidus after acute low back pain, and does it recover alone?",
+    "back": "It can shrink on the painful side and level (Hides) and does not recover just because pain settles. Specific exercise is needed."
+  },
+  {
+    "id": 348,
+    "domain": "electrotherapy",
+    "front": "Define rheobase and chronaxie.",
+    "back": "Rheobase is the lowest amplitude that causes a response with a very long pulse. Chronaxie is the pulse duration needed at twice the rheobase."
+  },
+  {
+    "id": 349,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What do the semicircular canals sense versus the utricle and saccule?",
+    "back": "Canals sense angular head motion such as turning or nodding. The utricle and saccule (otoliths) sense linear acceleration and head tilt relative to gravity."
+  },
+  {
+    "id": 350,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Describe the lower crossed syndrome (Janda).",
+    "back": "Tight hip flexors and lumbar extensors with weak abdominals and gluteals, giving anterior pelvic tilt. Stretch the tight muscles and strengthen the weak ones."
+  },
+  {
+    "id": 351,
+    "domain": "muscle_rehabilitation",
+    "front": "Which contraction type is safe in a cast or painful range, and what is its limit?",
+    "back": "Isometric. It builds strength mostly at the trained angle (about 20 degrees either side). Avoid long breath holding because the Valsalva maneuver raises blood pressure."
+  },
+  {
+    "id": 352,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What are the Meyerding grades?",
+    "back": "Percent of vertebral body width slipped: I is 0 to 25, II 25 to 50, III 50 to 75, IV 75 to 100, V is complete (spondyloptosis)."
+  },
+  {
+    "id": 353,
+    "domain": "functional_assessment",
+    "front": "How large a leg length difference produces a pelvic drop toward the short side?",
+    "back": "About 3/4 inch (2 cm) or more produces a pelvic drop toward the short side."
+  },
+  {
+    "id": 354,
+    "domain": "electrotherapy",
+    "front": "Find the current density when 10 mA passes through a 5 cm2 electrode.",
+    "back": "2 mA per cm2. Current density is current divided by electrode area. The same 10 mA through 20 cm2 gives 0.5 mA per cm2."
+  },
+  {
+    "id": 355,
+    "domain": "thermotherapy",
+    "front": "How many layers of towel go between a hydrocollator pack and the skin?",
+    "back": "About 6 to 8 layers counting the terry cover. The skin should feel warm, never hot or painful."
+  },
+  {
+    "id": 356,
+    "domain": "electrotherapy",
+    "front": "Name key contraindications to electrical stimulation placement.",
+    "back": "Pacemaker or defibrillator, anterior neck or carotid sinus, eyes or head, malignancy, active infection or thrombophlebitis, and pregnant abdomen, low back or pelvis."
+  },
+  {
+    "id": 357,
+    "domain": "functional_assessment",
+    "front": "How much does the center of mass rise and fall during normal gait?",
+    "back": "About 2 inches (5 cm) vertically, with about the same sideways shift. The determinants of gait keep these excursions small to save energy."
+  },
+  {
+    "id": 358,
+    "domain": "phototherapy",
+    "front": "What eye injury follows unprotected UV exposure, and how is it prevented?",
+    "back": "Photokeratitis, a painful corneal inflammation appearing hours later. Patient and therapist wear UV blocking goggles, and the patient keeps eyes closed beneath them."
+  },
+  {
+    "id": 359,
+    "domain": "endurance_training",
+    "front": "Cardiac output is 19 L/min and the AVO2 difference is 150 mL per liter. What is VO2 max in mL/min?",
+    "back": "19 x 150 = 2,850 mL/min. Divide by body weight in kg (70 kg gives 40.7 mL/kg/min) to get the relative value."
+  },
+  {
+    "id": 360,
+    "domain": "mechanotherapy",
+    "front": "By taught convention, which direction of kinesiology tape facilitates and which inhibits a muscle?",
+    "back": "Origin toward insertion facilitates a weak muscle. Insertion toward origin inhibits an overactive muscle. Research does not strongly support these effects."
+  },
+  {
+    "id": 361,
+    "domain": "exercise_physiology",
+    "front": "Which is lost faster after training stops, aerobic fitness or strength?",
+    "back": "Aerobic fitness. This is reversibility, or detraining."
+  },
+  {
+    "id": 362,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "A patient needs better joint stability and co contraction. Which PNF technique fits?",
+    "back": "Rhythmic stabilization: alternating isometric contractions of agonist and antagonist with no movement."
+  },
+  {
+    "id": 363,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Hyperreflexia, positive Babinski, clonus, gait disturbance and clumsy hands in the neck suggest what?",
+    "back": "Cervical myelopathy, an upper motor neuron problem. These signs need medical referral, and traction is contraindicated."
+  },
+  {
+    "id": 364,
+    "domain": "muscle_rehabilitation",
+    "front": "What are the training parameters for maximal strength?",
+    "back": "85 to 100 percent of 1RM, about 1 to 6 repetitions, 3 to 5 sets, with long rests of 2 to 5 minutes."
+  },
+  {
+    "id": 365,
+    "domain": "functional_assessment",
+    "front": "How do you treat a muscle with stretch weakness, such as in sway back?",
+    "back": "Correct posture and strengthen it in the shortened range. Stretching an already lengthened muscle makes it worse."
+  },
+  {
+    "id": 366,
+    "domain": "mechanotherapy",
+    "front": "What are typical cervical traction session length and intermittent cycle?",
+    "back": "10 to 20 minutes. Intermittent cycles use a hold of about 7 to 15 seconds and a rest of about 5 seconds."
+  },
+  {
+    "id": 367,
+    "domain": "phototherapy",
+    "front": "When is non contact laser technique used?",
+    "back": "Over open wounds, at a short distance such as 1 cm, with a barrier over the wound if infection control requires."
+  },
+  {
+    "id": 368,
+    "domain": "functional_assessment",
+    "front": "Describe an antalgic gait.",
+    "back": "Shortened stance on the painful limb with a short step on the other side. It is seen with hip, knee, or foot pain."
+  },
+  {
+    "id": 369,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Which sensory system dominates balance on a firm, flat floor?",
+    "back": "The somatosensory system. Vision matters most when the surface is unstable."
+  },
+  {
+    "id": 370,
+    "domain": "muscle_rehabilitation",
+    "front": "In Jull's craniocervical flexion test, what is the starting pressure and what is the sign of poor technique?",
+    "back": "A baseline of 20 mmHg, raised in 2 mmHg steps toward 30, holding each 10 seconds. Substitution by the sternocleidomastoid and scalenes, such as neck jutting or jaw clenching, means incorrect technique."
+  },
+  {
+    "id": 371,
+    "domain": "thermotherapy",
+    "front": "What frequency range is used in therapeutic ultrasound, and which two frequencies matter most?",
+    "back": "0.75 to 3 MHz. The two to know are 1 MHz and 3 MHz."
+  },
+  {
+    "id": 372,
+    "domain": "muscle_rehabilitation",
+    "front": "What distinguishes open chain from closed chain exercise?",
+    "back": "In open chain the distal segment moves freely, as in seated knee extension. In closed chain it is fixed, as in a squat, giving more co contraction, joint compression and function."
+  },
+  {
+    "id": 373,
+    "domain": "mechanotherapy",
+    "front": "What percent of body weight is needed in lumbar traction to overcome table friction, and to distract the vertebrae?",
+    "back": "About 25 percent to overcome friction on a standard table. About 50 percent of body weight is the commonly cited force for distraction, and some sources go higher."
+  },
+  {
+    "id": 374,
+    "domain": "muscle_rehabilitation",
+    "front": "What are the training parameters for hypertrophy?",
+    "back": "About 67 to 85 percent of 1RM, 6 to 12 repetitions, 3 to 6 sets, with rests of 30 to 90 seconds."
+  },
+  {
+    "id": 375,
+    "domain": "endurance_training",
+    "front": "Outline Phase I cardiac rehab limits after MI.",
+    "back": "Inpatient, starting within 24 to 48 hours when stable, at 1 to 3 METs. HR stays no more than 20 bpm above rest after MI (30 after cardiac surgery), RPE under 13."
+  },
+  {
+    "id": 376,
+    "domain": "exercise_physiology",
+    "front": "Which fiber type has many mitochondria, high myoglobin, slow contraction, and is dominant in the soleus?",
+    "back": "Type I, slow twitch slow oxidative. It makes low force but is very fatigue resistant and suits posture and endurance."
+  },
+  {
+    "id": 377,
+    "domain": "exercise_physiology",
+    "front": "Blocked versus random practice: which gives better retention and transfer?",
+    "back": "Random practice. It looks worse in the session, while blocked practice improves quickly during the session but retains less."
+  },
+  {
+    "id": 378,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Who is most often affected by adhesive capsulitis?",
+    "back": "Women aged 40 to 60 and people with diabetes. The full course can last 1 to 3 years."
+  },
+  {
+    "id": 379,
+    "domain": "endurance_training",
+    "front": "A client with PAD has an ankle brachial index of 0.85. How should walking be prescribed?",
+    "back": "ABI of 0.90 or lower means PAD. Walk to moderate claudication pain (3 to 4 on a 0 to 4 scale), rest until it clears, repeat, for 30 to 60 minutes, 3 to 5 days per week."
+  },
+  {
+    "id": 380,
+    "domain": "mechanotherapy",
+    "front": "What is a typical intermittent lumbar traction hold and rest time?",
+    "back": "A hold of about 10 to 60 seconds and a rest of about 5 to 20 seconds. Sessions usually run 10 to 30 minutes."
+  },
+  {
+    "id": 381,
+    "domain": "mechanotherapy",
+    "front": "What are the stretch and wear time of kinesiology tape?",
+    "back": "It stretches about 130 to 140 percent lengthwise. Apply with 0 to 50 percent stretch, anchors unstretched, and wear 3 to 5 days. A fan cut is used for edema."
+  },
+  {
+    "id": 382,
+    "domain": "functional_assessment",
+    "front": "At cadence 120 steps per minute, how long is one stride, and how long is stance?",
+    "back": "120 steps is 60 strides per minute, so one stride lasts 1.0 second. Stance is 0.6 seconds and swing is 0.4 seconds."
+  },
+  {
+    "id": 383,
+    "domain": "exercise_physiology",
+    "front": "Give work to rest ratios for each energy system.",
+    "back": "ATP PC about 1:12 to 1:20, glycolytic about 1:3 to 1:5, oxidative about 1:1 to 1:3. A 10 second sprint at 1:12 needs 120 seconds of rest."
+  },
+  {
+    "id": 384,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is the craniocervical flexion test baseline and step pattern?",
+    "back": "Biofeedback cuff at 20 mmHg behind the neck. The patient nods gently and raises pressure in 2 mmHg steps from 22 to 30 mmHg, holding each 10 seconds for 10 repetitions."
+  },
+  {
+    "id": 385,
+    "domain": "mechanotherapy",
+    "front": "Ankle tape or lace up brace for a long activity session, and why?",
+    "back": "The brace. Tape loses much of its support within 20 to 40 minutes of exercise, while a brace keeps its restraint."
+  },
+  {
+    "id": 386,
+    "domain": "exercise_physiology",
+    "front": "Can normal human training convert type I fibers into type II?",
+    "back": "No true conversion is shown. Training can shift IIx toward IIa, and endurance work raises oxidative capacity in every type."
+  },
+  {
+    "id": 387,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "In a lateral plumb line view, what landmarks should the line pass through?",
+    "back": "Ear lobe, middle of the shoulder joint, middle of the trunk, greater trochanter, slightly anterior to the knee axis, and slightly anterior to the lateral malleolus."
+  },
+  {
+    "id": 388,
+    "domain": "muscle_rehabilitation",
+    "front": "A patient presses the heel into the clinician's shoulder for 6 seconds during a hamstring stretch, then relaxes. Which technique is this?",
+    "back": "Hold relax. The tight hamstring contracts isometrically, then the clinician moves the leg further into the new range. Repeat 3 to 4 times."
+  },
+  {
+    "id": 389,
+    "domain": "exercise_physiology",
+    "front": "What is the net ATP yield of glycolysis from glucose and from glycogen?",
+    "back": "2 ATP from glucose and 3 ATP from glycogen, because the first step does not cost an ATP when starting from glycogen."
+  },
+  {
+    "id": 390,
+    "domain": "muscle_rehabilitation",
+    "front": "What prerequisites are needed before high intensity lower body plyometrics?",
+    "back": "Base strength (about a 1.5 times body weight squat), good balance, and no active pain or inflammation. Allow 48 to 72 hours between sessions for the same muscles."
+  },
+  {
+    "id": 391,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Painful arc between 60 and 120 degrees of abduction with positive Neer and Hawkins Kennedy tests suggests what?",
+    "back": "Rotator cuff tendinopathy or subacromial pain (impingement). Keep early exercise below the painful arc and build scapular and cuff strength."
+  },
+  {
+    "id": 392,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is the capsular pattern of the hip, and which motion is limited most in hip OA?",
+    "back": "Flexion, abduction and internal rotation are limited, with internal rotation limited the most."
+  },
+  {
+    "id": 393,
+    "domain": "phototherapy",
+    "front": "Why is laser eye injury especially dangerous?",
+    "back": "The retina can be damaged without any pain, and the injury is permanent. Never look into the beam or a reflection."
+  },
+  {
+    "id": 394,
+    "domain": "electrotherapy",
+    "front": "Explain the gate control mechanism behind conventional TENS.",
+    "back": "Stimulating large A beta fibers activates dorsal horn inhibitory interneurons. These block pain signals from small A delta and C fibers, closing the gate."
+  },
+  {
+    "id": 395,
+    "domain": "exercise_physiology",
+    "front": "Why reduce feedback frequency as a patient improves?",
+    "back": "Feedback after every repetition helps practice performance but weakens retention through dependence. Less frequent feedback gives better long term learning."
+  },
+  {
+    "id": 396,
+    "domain": "exercise_physiology",
+    "front": "Name the three Fitts and Posner stages of motor learning.",
+    "back": "Cognitive, associative, and autonomous. Movements go from jerky and thought heavy, to smoother, to nearly automatic."
+  },
+  {
+    "id": 397,
+    "domain": "mechanotherapy",
+    "front": "Name absolute contraindications to spinal traction.",
+    "back": "Cord compression, acute fracture or unstable spine, spinal infection, tumor or metastasis, severe osteoporosis, aortic aneurysm, atlantoaxial instability, and recent surgery without clearance."
+  },
+  {
+    "id": 398,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which stretch helps subacromial pain when internal rotation is restricted?",
+    "back": "Posterior capsule stretching, such as the sleeper or cross body stretch, because posterior capsule tightness contributes to impingement."
+  },
+  {
+    "id": 399,
+    "domain": "functional_assessment",
+    "front": "Define step length and stride length, with normal values.",
+    "back": "Step length is heel strike to the opposite heel strike, about 0.7 m. Stride length is heel strike to the next heel strike of the same foot, about 1.4 m."
+  },
+  {
+    "id": 400,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What is lower extremity D1 flexion?",
+    "back": "Hip flexion, adduction and external rotation, with ankle dorsiflexion and inversion."
+  },
+  {
+    "id": 401,
+    "domain": "endurance_training",
+    "front": "What is rate pressure product and how is it used?",
+    "back": "RPP equals heart rate x systolic pressure, an estimate of heart oxygen demand. HR 120 and SBP 160 gives 19,200. Set the target HR at least 10 bpm below the angina or 1 mm ST depression point."
+  },
+  {
+    "id": 402,
+    "domain": "functional_assessment",
+    "front": "What percent of the gait cycle is stance phase and what percent is swing?",
+    "back": "Stance is about 60 percent and swing is about 40 percent. Stance is when the foot is on the ground, swing is when it is in the air."
+  },
+  {
+    "id": 403,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which ankle test checks the ATFL and which checks the CFL?",
+    "back": "Anterior drawer tests the ATFL. Talar tilt tests the CFL."
+  },
+  {
+    "id": 404,
+    "domain": "phototherapy",
+    "front": "Which UV band is germicidal, and what wavelength is used on wounds?",
+    "back": "UVC, around 254 nm. It has bactericidal effects and penetrates the least, being absorbed by the stratum corneum."
+  },
+  {
+    "id": 405,
+    "domain": "electrotherapy",
+    "front": "A patient has lower motor neuron damage. What pulse duration and rate suit stimulating the muscle?",
+    "back": "Long pulses of 100 ms or more (often 100 to 300 ms) at 1 to 10 pps with a gradual ramp. The current must excite the muscle membrane directly."
+  },
+  {
+    "id": 406,
+    "domain": "endurance_training",
+    "front": "Name test termination criteria related to blood pressure.",
+    "back": "Systolic drop of 10 mm Hg or more with rising workload (with other ischemia signs), or excessive rise: systolic above 250 or diastolic above 115 mm Hg."
+  },
+  {
+    "id": 407,
+    "domain": "functional_assessment",
+    "front": "What is seen in a gluteus maximus gait, and which nerve is involved?",
+    "back": "The trunk thrusts backward at initial contact to stop hip flexion. The inferior gluteal nerve is involved."
+  },
+  {
+    "id": 408,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How are grade I and II slips managed, and what is avoided?",
+    "back": "Conservatively with activity modification, a flexion biased program and transversus abdominis and multifidus stabilization. Avoid repeated or end range extension and heavy loading."
+  },
+  {
+    "id": 409,
+    "domain": "functional_assessment",
+    "front": "What does the Functional Movement Screen score, and which score signals higher injury risk?",
+    "back": "Seven tests scored 0 to 3, maximum 21. A score of 14 or lower is linked to higher injury risk, and a 0 means pain."
+  },
+  {
+    "id": 410,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Where is iliotibial band syndrome pain, and which tests apply?",
+    "back": "Sharp lateral knee pain near the lateral femoral epicondyle at about 30 degrees of flexion at foot strike. The Ober test checks tightness and the Noble compression test reproduces pain."
+  },
+  {
+    "id": 411,
+    "domain": "exercise_physiology",
+    "front": "What is autogenic inhibition?",
+    "back": "High tension fires the Ib afferent, which acts through an inhibitory interneuron to reduce activation of the same muscle. It is protective."
+  },
+  {
+    "id": 412,
+    "domain": "functional_assessment",
+    "front": "Which muscles form the force couple for scapular upward rotation?",
+    "back": "Upper trapezius, lower trapezius, and serratus anterior. Serratus weakness from long thoracic nerve injury causes winging."
+  },
+  {
+    "id": 413,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Where does cervicogenic headache originate, and how does it behave?",
+    "back": "From upper cervical joints and muscles (C0 to C3). It is unilateral, starts in the neck, is provoked by neck movement or posture, and comes with reduced cervical range."
+  },
+  {
+    "id": 414,
+    "domain": "thermotherapy",
+    "front": "What are the cavitation and acoustic streaming effects of ultrasound?",
+    "back": "Cavitation is gas bubble formation in tissue fluid. Streaming is one way fluid flow around cells that raises membrane permeability and fibroblast and mast cell activity."
+  },
+  {
+    "id": 415,
+    "domain": "mechanotherapy",
+    "front": "What is a commonly taught starting force for cervical traction?",
+    "back": "About 7 to 10 percent of body weight, or roughly 10 to 15 lb for most adults. Start low, reassess, then progress if tolerated."
+  },
+  {
+    "id": 416,
+    "domain": "mechanotherapy",
+    "front": "What clinical criteria identify a myofascial trigger point?",
+    "back": "A palpable taut band, a tender spot in it, a local twitch response, recognition of the patient's pain, and a referred pain pattern that does not follow a dermatome."
+  },
+  {
+    "id": 417,
+    "domain": "electrotherapy",
+    "front": "What is ramp time in NMES, and what does it do?",
+    "back": "The 1 to 3 seconds over which intensity rises from zero at the start of each contraction. It makes contraction smoother, more comfortable and more like voluntary effort."
+  },
+  {
+    "id": 418,
+    "domain": "phototherapy",
+    "front": "What wavelength range defines ultraviolet light, and how is it split?",
+    "back": "Ultraviolet is shorter than 400 nm. It is split into UVA (about 315 to 400 nm), UVB (about 280 to 315 nm) and UVC (about 100 to 280 nm)."
+  },
+  {
+    "id": 419,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What are the Tinetti POMA section scores, total and high risk cut point?",
+    "back": "Balance out of 16 and gait out of 12, total 28. Below 19 is high risk, 19 to 23 moderate, 24 or higher low risk."
+  },
+  {
+    "id": 420,
+    "domain": "functional_assessment",
+    "front": "What is the main role of the quadriceps in loading response?",
+    "back": "Eccentric control of the knee, which flexes about 15 to 20 degrees for shock absorption. Tibialis anterior also works eccentrically to lower the foot."
+  },
+  {
+    "id": 421,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which shoulder position produces most anterior dislocations, and which tests assess anterior instability?",
+    "back": "Abduction with external rotation. The apprehension and relocation tests assess anterior instability, and the sulcus sign assesses inferior laxity."
+  },
+  {
+    "id": 422,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Define spondylolysis versus spondylolisthesis.",
+    "back": "Spondylolysis is a pars interarticularis defect (stress fracture). Spondylolisthesis is forward slippage of one vertebra on the one below, most often L5 on S1."
+  },
+  {
+    "id": 423,
+    "domain": "phototherapy",
+    "front": "Which laser class is most traditional therapeutic LLLT, and what is its power range?",
+    "back": "Class 3B, from 5 mW to 500 mW. Direct viewing of the beam is hazardous to the eye, so eye protection is required."
+  },
+  {
+    "id": 424,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which open chain range is safer for an ACL graft early on?",
+    "back": "90 to 45 degrees. Loaded extension from 45 to 0 degrees increases anterior tibial shear on the graft, while closed chain work gives co contraction and less shear."
+  },
+  {
+    "id": 425,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What does Quebec Task Force whiplash grade II mean?",
+    "back": "Neck pain with musculoskeletal signs such as reduced range or point tenderness. Grade I has pain only, grade III adds neurological signs, grade IV is fracture or dislocation."
+  },
+  {
+    "id": 426,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Name contraindications to cervical traction.",
+    "back": "Instability, myelopathy, active infection, tumor and vertebrobasilar insufficiency. Progressive motor loss or myelopathy signs need surgical referral."
+  },
+  {
+    "id": 427,
+    "domain": "electrotherapy",
+    "front": "Why is the cathode used first on an infected or sloughy wound?",
+    "back": "Cathodal stimulation attracts neutrophils and macrophages and has a bacteriostatic effect. The anode instead attracts fibroblasts and epithelial cells."
+  },
+  {
+    "id": 428,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which root controls wrist extension and thumb sensation?",
+    "back": "C6. C5 is shoulder abduction and biceps reflex, C7 is triceps, wrist flexion and middle finger sensation, C8 is finger flexion."
+  },
+  {
+    "id": 429,
+    "domain": "muscle_rehabilitation",
+    "front": "When should the load be increased in a progressive program?",
+    "back": "By about 2 to 10 percent once the patient completes one or two repetitions over the target on two consecutive sessions."
+  },
+  {
+    "id": 430,
+    "domain": "phototherapy",
+    "front": "What is PUVA therapy?",
+    "back": "Psoralen drug plus UVA, which penetrates deepest into the dermis. It is used for psoriasis and vitiligo."
+  },
+  {
+    "id": 431,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Why is piriformis syndrome called a diagnosis of exclusion, and which tests are used?",
+    "back": "Lumbar radiculopathy, SI pain and deep gluteal conditions mimic it. Tests are the FAIR test (flexion, adduction, internal rotation) and the Pace sign with resisted abduction and external rotation."
+  },
+  {
+    "id": 432,
+    "domain": "mechanotherapy",
+    "front": "Why does lumbar traction need far more force than cervical traction?",
+    "back": "The force must beat the weight of the body part and table friction. The lower body is heavy and friction is large, while the head is light."
+  },
+  {
+    "id": 433,
+    "domain": "exercise_physiology",
+    "front": "Give the DOMS timeline and the repeated bout effect.",
+    "back": "Starts 12 to 24 hours after, peaks at 24 to 72 hours, settles in 5 to 7 days, mostly after eccentric work. A later similar bout causes much less soreness."
+  },
+  {
+    "id": 434,
+    "domain": "functional_assessment",
+    "front": "A patient walks with a wide base of support. What does a wider step width suggest?",
+    "back": "Poor balance. Normal step width is about 2 to 4 inches (5 to 10 cm), so a wider base is a compensation for instability."
+  },
+  {
+    "id": 435,
+    "domain": "electrotherapy",
+    "front": "What happens to skin impedance as frequency rises, and what is the clinical result?",
+    "back": "Impedance falls. Medium frequency currents therefore feel more comfortable than low frequency ones at the same intensity."
+  },
+  {
+    "id": 436,
+    "domain": "mechanotherapy",
+    "front": "A 160 lb patient starts cervical traction at 7 percent of body weight. What is the starting force?",
+    "back": "160 x 0.07 = 11.2 lb, so begin at about 11 lb. Progress a few pounds per visit toward 10 percent (16 lb) if there is no dizziness."
+  },
+  {
+    "id": 437,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which tendon is involved in lateral epicondylalgia, and which tests are positive?",
+    "back": "The common extensor origin, especially extensor carpi radialis brevis. The Cozen and Mill tests are positive, with pain on gripping and wrist extension."
+  },
+  {
+    "id": 438,
+    "domain": "thermotherapy",
+    "front": "What is the order of sensations during cold application?",
+    "back": "Cold, then burning, then aching, then numbness. It takes about 10 to 15 minutes, and treatment usually ends at numbness."
+  },
+  {
+    "id": 439,
+    "domain": "endurance_training",
+    "front": "A diabetic client on insulin has glucose of 90 mg/dL before exercise. What next?",
+    "back": "Give a carbohydrate snack first, since glucose below 100 mg/dL on insulin risks hypoglycemia. Also inject insulin away from working muscles, and watch for hypoglycemia up to 24 hours after."
+  },
+  {
+    "id": 440,
+    "domain": "electrotherapy",
+    "front": "Where is the dispersive electrode placed during HVPC wound treatment?",
+    "back": "On healthy skin 6 to 8 inches (15 to 20 cm) from the wound. The active electrode sits in a moist saline dressing over the wound."
+  },
+  {
+    "id": 441,
+    "domain": "muscle_rehabilitation",
+    "front": "What mechanism explains hold relax and contract relax stretching?",
+    "back": "Autogenic inhibition. Tension in the tendon is sensed by the Golgi tendon organ, which inhibits the same muscle and lets it relax."
+  },
+  {
+    "id": 442,
+    "domain": "muscle_rehabilitation",
+    "front": "In PNF agonist contract, which muscle does the patient contract for a tight hamstring?",
+    "back": "The quadriceps, the muscle on the opposite side of the joint. The mechanism is reciprocal inhibition, which signals the hamstring to relax."
+  },
+  {
+    "id": 443,
+    "domain": "functional_assessment",
+    "front": "What is the common fault in a hip hinge, and why does it matter?",
+    "back": "Substituting lumbar flexion for hip flexion, which loads the discs. A dowel along the back is used to test a neutral spine."
+  },
+  {
+    "id": 444,
+    "domain": "muscle_rehabilitation",
+    "front": "During the Thomas test the hanging thigh rises off the table. Which muscle is tight?",
+    "back": "The iliopsoas. If the knee extends instead, the rectus femoris is tight. Abduction or outward knee rotation points to the TFL and ITB."
+  },
+  {
+    "id": 445,
+    "domain": "exercise_physiology",
+    "front": "Which fiber type is fastest, strongest, and fatigues quickly, with large phosphocreatine and glycogen stores?",
+    "back": "Type IIx, fast glycolytic. Older textbooks call it IIb, and IIx is the current term."
+  },
+  {
+    "id": 446,
+    "domain": "mechanotherapy",
+    "front": "What does spinal traction apply, and what is the main rationale in cervical radiculopathy?",
+    "back": "A longitudinal pulling force. The main rationale is foraminal widening, which may reduce nerve root compression. Do not say it puts the disc back, since that is debated."
+  },
+  {
+    "id": 447,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "How is the flexion rotation test interpreted?",
+    "back": "With the neck fully flexed, rotation is normally about 44 degrees each way. A loss of 10 degrees or more to one side suggests C1 and C2 involvement."
+  },
+  {
+    "id": 448,
+    "domain": "functional_assessment",
+    "front": "How many phases does the Rancho Los Amigos system divide the gait cycle into?",
+    "back": "Eight phases: initial contact, loading response, midstance, terminal stance, preswing, initial swing, midswing, and terminal swing."
+  },
+  {
+    "id": 449,
+    "domain": "endurance_training",
+    "front": "What is the range of the Borg RPE scale and why?",
+    "back": "6 to 20, built so that RPE times 10 approximates heart rate in a healthy young adult. 6 is about 60 bpm at rest and 20 is about 200 bpm at max."
+  },
+  {
+    "id": 450,
+    "domain": "mechanotherapy",
+    "front": "Which cervical traction angle opens the foramina most and loads C5 to C7?",
+    "back": "About 20 to 30 degrees of flexion. Near neutral loads the upper cervical segments more. Extension narrows the foramina."
+  },
+  {
+    "id": 451,
+    "domain": "muscle_rehabilitation",
+    "front": "Why might a clinician avoid stretching tight hamstrings in a patient with spinal cord injury?",
+    "back": "The short muscles may give needed stability for function. The clinician must decide whether releasing them helps or harms before stretching."
+  },
+  {
+    "id": 452,
+    "domain": "electrotherapy",
+    "front": "Why does IFC allow deeper stimulation with less skin discomfort?",
+    "back": "It uses medium frequency carriers, which meet low skin impedance. Current passes the skin easily and the body responds to the beat frequency formed in tissue."
+  },
+  {
+    "id": 453,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "A patient scores 45 on the Berg and 14 seconds on the TUG. How do you interpret this?",
+    "back": "Berg 45 is low risk but borderline. TUG of 14 seconds exceeds 12 seconds and signals increased fall risk, so add balance training. Use more than one test."
+  },
+  {
+    "id": 454,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What three subsystems make up spine stability (Panjabi)?",
+    "back": "Passive structures (vertebrae, discs, ligaments), active structures (muscles), and the neural control system that coordinates them."
+  },
+  {
+    "id": 455,
+    "domain": "phototherapy",
+    "front": "What is the formula for laser energy in joules?",
+    "back": "Energy (J) = power (W) x time (s). Remember one watt equals one joule per second."
+  },
+  {
+    "id": 456,
+    "domain": "exercise_physiology",
+    "front": "Quick rule to separate spindle from GTO?",
+    "back": "Spindle means length and speed, and facilitates the same muscle. GTO means tension, and inhibits the same muscle."
+  },
+  {
+    "id": 457,
+    "domain": "functional_assessment",
+    "front": "What gait has the leg swinging out in a semicircle, and why?",
+    "back": "Circumduction. The leg cannot shorten in swing, as with a stiff knee or spastic hemiplegia. Hip hiking and vaulting serve the same purpose."
+  },
+  {
+    "id": 458,
+    "domain": "mechanotherapy",
+    "front": "When is static cervical traction often chosen over intermittent?",
+    "back": "For muscle guarding and for the first visit. Intermittent is chosen to mobilize joints, stimulate mechanoreceptors, or for disc related problems. Evidence shows no clear winner."
+  },
+  {
+    "id": 459,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which cautions apply to pregnant patients after about 16 to 20 weeks and for heat?",
+    "back": "Avoid prolonged supine positioning (vena cava compression, hypotension) and keep maternal core temperature under about 102 degrees F. Also avoid ultrasound, deep heat and electrical stimulation over the abdomen and low back."
+  },
+  {
+    "id": 460,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which ACL test is the most sensitive, and what does the ACL prevent?",
+    "back": "The Lachman test. The ACL prevents anterior tibial translation."
+  },
+  {
+    "id": 461,
+    "domain": "functional_assessment",
+    "front": "Pain shortens the step from 0.70 m to 0.50 m at cadence 110. What happens to velocity?",
+    "back": "It falls from 77 to 55 m per minute, about 0.92 m per second, because velocity equals cadence times step length."
+  },
+  {
+    "id": 462,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which collagen type dominates the proliferative phase, and which replaces it in remodeling?",
+    "back": "Type III collagen is laid down by fibroblasts early. Stronger type I collagen replaces it during remodeling, and fibers align along lines of stress."
+  },
+  {
+    "id": 463,
+    "domain": "mechanotherapy",
+    "front": "Why can a cervical traction halter be a problem for some patients?",
+    "back": "The halter pulls through the chin and occiput, so it loads the jaw. It can cause TMJ pain, especially in TMJ disorders or with dentures left in."
+  },
+  {
+    "id": 464,
+    "domain": "endurance_training",
+    "front": "Which Borg RPE values match moderate and vigorous intensity?",
+    "back": "Moderate is 12 to 13 (somewhat hard). Vigorous is 14 to 17 (hard to very hard). Light is 9 to 11."
+  },
+  {
+    "id": 465,
+    "domain": "exercise_physiology",
+    "front": "Define the lactate threshold and give typical values.",
+    "back": "The intensity where blood lactate rises abruptly. About 50 to 60 percent of VO2 max in untrained people and 70 to 80 percent or higher in trained athletes."
+  },
+  {
+    "id": 466,
+    "domain": "muscle_rehabilitation",
+    "front": "A patient has a lengthened, weak gluteus maximus and tight hip flexors. What is the treatment plan?",
+    "back": "Stretch the tight hip flexors and strengthen the weak gluteals. Stretching the weak lengthened muscle would make things worse."
+  },
+  {
+    "id": 467,
+    "domain": "electrotherapy",
+    "front": "What matters most for strength gains with NMES: minutes of stimulation or force produced?",
+    "back": "Force produced. Use 35 to 50 pps for tetany and a high intensity, with the limb held so the muscle contracts isometrically."
+  },
+  {
+    "id": 468,
+    "domain": "exercise_physiology",
+    "front": "Describe type IIa fibers.",
+    "back": "Fast twitch oxidative glycolytic. They are fairly fast, fairly strong, moderately fatigue resistant, and use both aerobic and anaerobic energy."
+  },
+  {
+    "id": 469,
+    "domain": "mechanotherapy",
+    "front": "What are the three main knee brace types?",
+    "back": "Prophylactic to reduce sport injury risk, functional for ACL injury or reconstruction, and rehabilitative to limit motion after surgery or injury with adjustable hinges."
+  },
+  {
+    "id": 470,
+    "domain": "mechanotherapy",
+    "front": "Which massage stroke is used on the chest wall for airway clearance?",
+    "back": "Tapotement (percussion), rapid rhythmic tapping with cupped hands. Hacking, cupping, clapping and pounding are forms. It is stimulating."
+  },
+  {
+    "id": 471,
+    "domain": "phototherapy",
+    "front": "A UV lamp is moved from 30 inches to 15 inches. What happens to intensity?",
+    "back": "Intensity rises fourfold, because intensity changes with the square of the distance ratio (30 / 15 squared = 4). Treatment time must drop to one quarter."
+  },
+  {
+    "id": 472,
+    "domain": "muscle_rehabilitation",
+    "front": "Which shoulder exercise best targets the supraspinatus with less impingement risk, and which best targets the infraspinatus and teres minor?",
+    "back": "Full can (thumbs up scaption) and prone horizontal abduction thumb up for the supraspinatus. Side lying external rotation with a towel roll for infraspinatus and teres minor."
+  },
+  {
+    "id": 473,
+    "domain": "functional_assessment",
+    "front": "Short shuffling steps, stooped posture, reduced arm swing, and festination describe which gait?",
+    "back": "Parkinsonian gait."
+  },
+  {
+    "id": 474,
+    "domain": "functional_assessment",
+    "front": "Which muscle holds the foot up during midswing?",
+    "back": "Tibialis anterior, working concentrically so the foot clears the floor. It works eccentrically in loading response."
+  },
+  {
+    "id": 475,
+    "domain": "endurance_training",
+    "front": "On which ergometer is measured VO2 max usually highest?",
+    "back": "The treadmill, because it uses the most muscle mass. Values are lower on a bicycle and lower still on an arm ergometer."
+  },
+  {
+    "id": 476,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "Compare hold relax and contract relax in PNF.",
+    "back": "Hold relax uses an isometric contraction of the tight muscle, then relax and stretch. Contract relax uses an isotonic contraction, including rotation. Both gain range."
+  },
+  {
+    "id": 477,
+    "domain": "muscle_rehabilitation",
+    "front": "Which muscles are tight and weak in the lower crossed pattern, and what posture results?",
+    "back": "Tight hip flexors and lumbar erectors, weak abdominals and gluteals. The result is increased lumbar lordosis and anterior pelvic tilt."
+  },
+  {
+    "id": 478,
+    "domain": "endurance_training",
+    "front": "Which exercise precautions apply to a client with heart failure?",
+    "back": "Use RPE 11 to 14 with short bouts of 5 to 10 minutes, progress duration before intensity, avoid Valsalva and heat, and stop if weight rises over 2 to 3 lb in a day or 5 lb in a week."
+  },
+  {
+    "id": 479,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is normal thoracic kyphosis by Cobb angle?",
+    "back": "About 20 to 40 degrees. Greater values are hyperkyphosis, often from osteoporotic compression fractures in older adults."
+  },
+  {
+    "id": 480,
+    "domain": "functional_assessment",
+    "front": "How does the glenohumeral to scapulothoracic ratio work over 180 degrees of arm elevation?",
+    "back": "About 2 to 1: roughly 120 degrees at the glenohumeral joint and 60 degrees of scapular upward rotation."
+  },
+  {
+    "id": 481,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What is the natural history of acute low back pain, and the advice on bed rest?",
+    "back": "Most resolves in 4 to 6 weeks. Reassure, stay active and avoid bed rest, since prolonged rest delays recovery."
+  },
+  {
+    "id": 482,
+    "domain": "thermotherapy",
+    "front": "List contraindications to moist heat besides acute injury and lost sensation.",
+    "back": "Impaired circulation, active bleeding, malignancy over the area, deep vein thrombosis and thrombophlebitis."
+  },
+  {
+    "id": 483,
+    "domain": "electrotherapy",
+    "front": "A short pulse stimulator gives no contraction at adequate intensity in a muscle after lower motor neuron damage. Why?",
+    "back": "The muscle is denervated. Short pulses depend on the nerve, and cannot excite the muscle fiber membrane directly, so a long pulse (100 ms or more) is needed."
+  },
+  {
+    "id": 484,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "List the three BESS stances.",
+    "back": "Double leg, single leg on the non dominant foot, and tandem, each with hands on hips and eyes closed, first on firm ground and then on a foam pad."
+  },
+  {
+    "id": 485,
+    "domain": "functional_assessment",
+    "front": "Describe lower crossed syndrome and a typical complaint.",
+    "back": "Tight hip flexors and thoracolumbar erectors with weak gluteals and abdominals, giving anterior pelvic tilt and increased lordosis. Low back pain and hamstring strains are typical."
+  },
+  {
+    "id": 486,
+    "domain": "mechanotherapy",
+    "front": "Which cervical collar offers little true restriction, and which are used after fracture or surgery?",
+    "back": "A soft foam collar mainly reminds and warms. Rigid collars (Philadelphia, Miami J) restrict more. A halo vest restricts the most."
+  },
+  {
+    "id": 487,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "What do Schroth type scoliosis exercises emphasize?",
+    "back": "Three dimensional elongation, derotation and breathing into the concave side. They improve curve control and function but general exercise does not correct a structural curve."
+  },
+  {
+    "id": 488,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "In pressure biofeedback for TrA, what is the baseline and a correct reading?",
+    "back": "Prone with the cuff under the abdomen inflated to 70 mmHg. A correct contraction drops it about 6 to 10 mmHg, so 60 to 64 mmHg, held 10 seconds for 10 repetitions. A rise means wrong muscles."
+  },
+  {
+    "id": 489,
+    "domain": "functional_assessment",
+    "front": "In forward bending, how is motion shared between the lumbar spine and pelvis?",
+    "back": "The lumbar spine flexes about 40 to 60 degrees and the pelvis tilts about 70 to 80 degrees. Tight hamstrings limit pelvic tilt and overload the low back."
+  },
+  {
+    "id": 490,
+    "domain": "thermotherapy",
+    "front": "A patient with chronic low back spasm is about to receive spinal manipulation. What modality helps, and why?",
+    "back": "A moist hot pack on the low back. It reduces muscle spindle firing and relaxes paraspinal muscle before the adjustment."
+  },
+  {
+    "id": 491,
+    "domain": "exercise_physiology",
+    "front": "Define the SAID principle.",
+    "back": "Specific adaptation to imposed demands. The body adapts to the exact type, speed, muscle action, energy system, and range used in training."
+  },
+  {
+    "id": 492,
+    "domain": "electrotherapy",
+    "front": "What is the purpose of sweep in IFC?",
+    "back": "Sweep automatically varies the beat frequency over a range, such as 80 to 150 Hz, so nerves do not accommodate to one constant frequency."
+  },
+  {
+    "id": 493,
+    "domain": "neuromuscular_rehabilitation",
+    "front": "What is lower extremity D2 extension?",
+    "back": "Hip extension, adduction and external rotation, with ankle plantarflexion and inversion."
+  },
+  {
+    "id": 494,
+    "domain": "exercise_physiology",
+    "front": "Give the hypertrophy and the muscular endurance zones.",
+    "back": "Hypertrophy: 6 to 12 repetitions at about 67 to 85 percent, rest 30 to 90 seconds. Endurance: 12 or more at 67 percent or less, rest 30 seconds or less."
+  },
+  {
+    "id": 495,
+    "domain": "exercise_physiology",
+    "front": "A painful stimulus makes the foot lift and the opposite leg extend. Name both reflexes.",
+    "back": "Flexor withdrawal in the stimulated limb and crossed extensor in the opposite limb. Both are polysynaptic protective responses."
+  },
+  {
+    "id": 496,
+    "domain": "disorder_specific_rehabilitation",
+    "front": "Which tests are used for thoracic outlet syndrome, and what is a positive result?",
+    "back": "Adson, costoclavicular, Roos (EAST, 3 minutes) and Wright. A positive result is symptom reproduction, with or without a pulse change."
+  },
+  {
+    "id": 497,
+    "domain": "endurance_training",
+    "front": "What happens to heart rate and stroke volume with endurance training?",
+    "back": "Resting and submaximal heart rate fall (often 10 to 20 bpm at rest), stroke volume rises, and max heart rate is unchanged or slightly lower."
+  },
+  {
+    "id": 498,
+    "domain": "endurance_training",
+    "front": "Write the Karvonen target heart rate formula.",
+    "back": "Target HR = (HRR x intensity fraction) + resting HR, where HRR is HRmax minus resting HR. Trap: forgetting to add resting HR back at the end."
+  },
+  {
+    "id": 499,
+    "domain": "mechanotherapy",
+    "front": "What does an unloader knee brace do, and for which condition?",
+    "back": "It applies a valgus force to shift load off the medial compartment in medial compartment osteoarthritis, and may reduce pain."
+  },
+  {
+    "id": 500,
+    "domain": "thermotherapy",
+    "front": "Which type of cavitation is harmful and how do you avoid it?",
+    "back": "Unstable (transient) cavitation, where bubbles collapse. Keep the head moving and avoid high intensity."
+  }
+]
